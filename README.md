@@ -1,6 +1,6 @@
 # cet6-listening-part-words
 
-<p style='text-align: center' >2015-12 至 2017-06 CET 6 听力部分高频单词。</p>
+<div align='center' >2015-12 至 2017-06 CET 6 听力部分高频单词。</div>
 
 ![词云](./word-cloud.png)
 
