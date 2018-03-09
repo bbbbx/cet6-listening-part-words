@@ -1,0 +1,3375 @@
+字词频统计_语料库在线(www.cncorpus.org)
+2018/3/9 14:21:26
+
+序号		字词		出现次数		出现频率
+1		,		607		5.0474
+2		.		547		4.5485
+3		the		439		3.6504
+4		to		345		2.8688
+5		a		270		2.2451
+6		and		237		1.9707
+7		of		222		1.846
+8		in		147		1.2224
+9		you		147		1.2224
+10		&#39;		128		1.0644
+11		that		111		0.923
+12		it		108		0.8981
+13		is		101		0.8398
+14		for		92		0.765
+15		s		83		0.6902
+16		on		74		0.6153
+17		?		71		0.5904
+18		be		71		0.5904
+19		-		69		0.5738
+20		have		65		0.5405
+21		your		64		0.5322
+22		are		58		0.4823
+23		can		53		0.4407
+24		with		53		0.4407
+25		i		49		0.4075
+26		’		48		0.3991
+27		t		44		0.3659
+28		from		43		0.3576
+29		about		42		0.3492
+30		an		42		0.3492
+31		they		42		0.3492
+32		was		42		0.3492
+33		I		41		0.3409
+34		but		40		0.3326
+35		or		40		0.3326
+36		as		39		0.3243
+37		at		37		0.3077
+38		not		36		0.2994
+39		people		36		0.2994
+40		this		35		0.291
+41		more		34		0.2827
+42		there		34		0.2827
+43		The		33		0.2744
+44		will		33		0.2744
+45		do		32		0.2661
+46		by		31		0.2578
+47		if		31		0.2578
+48		we		31		0.2578
+49		all		30		0.2495
+50		her		30		0.2495
+51		out		30		0.2495
+52		she		29		0.2411
+53		their		28		0.2328
+54		which		28		0.2328
+55		&quot;		27		0.2245
+56		had		26		0.2162
+57		time		25		0.2079
+58		It		24		0.1996
+59		make		24		0.1996
+60		new		24		0.1996
+61		Well		23		0.1913
+62		:		23		0.1913
+63		has		23		0.1913
+64		he		23		0.1913
+65		would		23		0.1913
+66		also		22		0.1829
+67		like		22		0.1829
+68		one		22		0.1829
+69		some		22		0.1829
+70		what		21		0.1746
+71		when		21		0.1746
+72		who		21		0.1746
+73		get		20		0.1663
+74		just		20		0.1663
+75		now		19		0.158
+76		re		19		0.158
+77		been		18		0.1497
+78		friends	18		0.1497
+79		go		18		0.1497
+80		other		18		0.1497
+81		them		18		0.1497
+82		And		17		0.1414
+83		his		17		0.1414
+84		how		17		0.1414
+85		into		17		0.1414
+86		so		17		0.1414
+87		But		16		0.133
+88		find		16		0.133
+89		In		16		0.133
+90		know		16		0.133
+91		much		16		0.133
+92		African	15		0.1247
+93		food		15		0.1247
+94		job		15		0.1247
+95		ll		15		0.1247
+96		see		15		0.1247
+97		don		14		0.1164
+98		good		14		0.1164
+99		help		14		0.1164
+100		its		14		0.1164
+101		need		14		0.1164
+102		So		14		0.1164
+103		than		14		0.1164
+104		up		14		0.1164
+105		were		14		0.1164
+106		year		14		0.1164
+107		could		13		0.1081
+108		first		13		0.1081
+109		If		13		0.1081
+110		kids		13		0.1081
+111		life		13		0.1081
+112		many		13		0.1081
+113		team		13		0.1081
+114		then		13		0.1081
+115		want		13		0.1081
+116		and		12		0.0998
+117		Yes		12		0.0998
+118		any		12		0.0998
+119		because	12		0.0998
+120		high		12		0.0998
+121		holiday	12		0.0998
+122		may		12		0.0998
+123		Mediterranean		12		0.0998
+124		my		12		0.0998
+125		own		12		0.0998
+126		really		12		0.0998
+127		think		12		0.0998
+128		use		12		0.0998
+129		years		12		0.0998
+130		The		11		0.0915
+131		advertising		11		0.0915
+132		diet		11		0.0915
+133		does		11		0.0915
+134		eyes		11		0.0915
+135		family		11		0.0915
+136		going		11		0.0915
+137		love		11		0.0915
+138		might		11		0.0915
+139		our		11		0.0915
+140		price		11		0.0915
+141		take		11		0.0915
+142		very		11		0.0915
+143		You		11		0.0915
+144		I		10		0.0832
+145		American	10		0.0832
+146		better		10		0.0832
+147		company	10		0.0832
+148		me		10		0.0832
+149		only		10		0.0832
+150		three		10		0.0832
+151		today		10		0.0832
+152		work		10		0.0832
+153		M		9		0.0748
+154		So		9		0.0748
+155		;		9		0.0748
+156		animals	9		0.0748
+157		become		9		0.0748
+158		career		9		0.0748
+159		did		9		0.0748
+160		dog		9		0.0748
+161		even		9		0.0748
+162		example	9		0.0748
+163		give		9		0.0748
+164		green		9		0.0748
+165		isn		9		0.0748
+166		let		9		0.0748
+167		little		9		0.0748
+168		most		9		0.0748
+169		person		9		0.0748
+170		products	9		0.0748
+171		same		9		0.0748
+172		say		9		0.0748
+173		should		9		0.0748
+174		something	9		0.0748
+175		start		9		0.0748
+176		States		9		0.0748
+177		us		9		0.0748
+178		used		9		0.0748
+179		well		9		0.0748
+180		Yes		9		0.0748
+181		the		8		0.0665
+182		W		8		0.0665
+183		able		8		0.0665
+184		being		8		0.0665
+185		book		8		0.0665
+186		called		8		0.0665
+187		different	8		0.0665
+188		each		8		0.0665
+189		experience	8		0.0665
+190		goal		8		0.0665
+191		him		8		0.0665
+192		no		8		0.0665
+193		Now		8		0.0665
+194		over		8		0.0665
+195		program	8		0.0665
+196		right		8		0.0665
+197		share		8		0.0665
+198		speech		8		0.0665
+199		stories	8		0.0665
+200		such		8		0.0665
+201		That		8		0.0665
+202		these		8		0.0665
+203		This		8		0.0665
+204		through	8		0.0665
+205		two		8		0.0665
+206		ve		8		0.0665
+207		yourself	8		0.0665
+208		%		7		0.0582
+209		000		7		0.0582
+210		A		7		0.0582
+211		after		7		0.0582
+212		away		7		0.0582
+213		Barbies	7		0.0582
+214		before		7		0.0582
+215		books		7		0.0582
+216		change		7		0.0582
+217		d		7		0.0582
+218		day		7		0.0582
+219		Dr		7		0.0582
+220		early		7		0.0582
+221		ever		7		0.0582
+222		For		7		0.0582
+223		here		7		0.0582
+224		holidays	7		0.0582
+225		home		7		0.0582
+226		information	7		0.0582
+227		local		7		0.0582
+228		look		7		0.0582
+229		printing	7		0.0582
+230		problem	7		0.0582
+231		real		7		0.0582
+232		region		7		0.0582
+233		school		7		0.0582
+234		schools	7		0.0582
+235		seven		7		0.0582
+236		still		7		0.0582
+237		students	7		0.0582
+238		working	7		0.0582
+239		yet		7		0.0582
+240		on		6		0.0499
+241		!		6		0.0499
+242		around		6		0.0499
+243		Barbie		6		0.0499
+244		benefits	6		0.0499
+245		century	6		0.0499
+246		computer	6		0.0499
+247		continue	6		0.0499
+248		days		6		0.0499
+249		decide		6		0.0499
+250		Enderby	6		0.0499
+251		enough		6		0.0499
+252		every		6		0.0499
+253		everyone	6		0.0499
+254		fact		6		0.0499
+255		goes		6		0.0499
+256		got		6		0.0499
+257		government	6		0.0499
+258		large		6		0.0499
+259		meet		6		0.0499
+260		next		6		0.0499
+261		old		6		0.0499
+262		One		6		0.0499
+263		personal	6		0.0499
+264		probably	6		0.0499
+265		produce	6		0.0499
+266		product	6		0.0499
+267		services	6		0.0499
+268		side		6		0.0499
+269		sound		6		0.0499
+270		started	6		0.0499
+271		story		6		0.0499
+272		talk		6		0.0499
+273		Thank		6		0.0499
+274		They		6		0.0499
+275		things		6		0.0499
+276		thought	6		0.0499
+277		University	6		0.0499
+278		way		6		0.0499
+279		We		6		0.0499
+280		where		6		0.0499
+281		why		6		0.0499
+282		within		6		0.0499
+283		world		6		0.0499
+284		&#173;		5		0.0416
+285		Hello		5		0.0416
+286		In		5		0.0416
+287		it		5		0.0416
+288		Oh		5		0.0416
+289		to		5		0.0416
+290		almost		5		0.0416
+291		audience	5		0.0416
+292		best		5		0.0416
+293		bird		5		0.0416
+294		car		5		0.0416
+295		children	5		0.0416
+296		close		5		0.0416
+297		disease	5		0.0416
+298		does’n		5		0.0416
+299		door		5		0.0416
+300		down		5		0.0416
+301		drinks		5		0.0416
+302		during		5		0.0416
+303		eating		5		0.0416
+304		education	5		0.0416
+305		elephant	5		0.0416
+306		environment	5		0.0416
+307		eye		5		0.0416
+308		fantasy	5		0.0416
+309		fat		5		0.0416
+310		few		5		0.0416
+311		focus		5		0.0416
+312		great		5		0.0416
+313		groups		5		0.0416
+314		He		5		0.0416
+315		heart		5		0.0416
+316		How		5		0.0416
+317		human		5		0.0416
+318		important	5		0.0416
+319		language	5		0.0416
+320		learn		5		0.0416
+321		long		5		0.0416
+322		means		5		0.0416
+323		meat		5		0.0416
+324		movie		5		0.0416
+325		position	5		0.0416
+326		problems	5		0.0416
+327		put		5		0.0416
+328		quite		5		0.0416
+329		road		5		0.0416
+330		scientists	5		0.0416
+331		sea		5		0.0416
+332		setting	5		0.0416
+333		She		5		0.0416
+334		smaller	5		0.0416
+335		someone	5		0.0416
+336		speaker	5		0.0416
+337		strategy	5		0.0416
+338		study		5		0.0416
+339		thing		5		0.0416
+340		times		5		0.0416
+341		together	5		0.0416
+342		too		5		0.0416
+343		UCMC		5		0.0416
+344		waste		5		0.0416
+345		water		5		0.0416
+346		ways		5		0.0416
+347		Well		5		0.0416
+348		while		5		0.0416
+349		words		5		0.0416
+350		written	5		0.0416
+351		#		4		0.0333
+352		But		4		0.0333
+353		Dr		4		0.0333
+354		i		4		0.0333
+355		of		4		0.0333
+356		One		4		0.0333
+357		that		4		0.0333
+358		What		4		0.0333
+359		account	4		0.0333
+360		affect		4		0.0333
+361		All		4		0.0333
+362		already	4		0.0333
+363		am		4		0.0333
+364		Andreessen	4		0.0333
+365		annual		4		0.0333
+366		anything	4		0.0333
+367		Before		4		0.0333
+368		beginning	4		0.0333
+369		body		4		0.0333
+370		building	4		0.0333
+371		built		4		0.0333
+372		busy		4		0.0333
+373		candle		4		0.0333
+374		certain	4		0.0333
+375		choice		4		0.0333
+376		Clark		4		0.0333
+377		color		4		0.0333
+378		come		4		0.0333
+379		comes		4		0.0333
+380		companies		4		0.0333
+381		consumers		4		0.0333
+382		contract		4		0.0333
+383		countries		4		0.0333
+384		cultural		4		0.0333
+385		cup		4		0.0333
+386		developed		4		0.0333
+387		difficult		4		0.0333
+388		directly		4		0.0333
+389		Do		4		0.0333
+390		doing		4		0.0333
+391		encourage		4		0.0333
+392		events		4		0.0333
+393		exchange		4		0.0333
+394		feel		4		0.0333
+395		France		4		0.0333
+396		friend		4		0.0333
+397		garage		4		0.0333
+398		generally		4		0.0333
+399		graduate		4		0.0333
+400		greenhorn		4		0.0333
+401		group		4		0.0333
+402		happy		4		0.0333
+403		ideas		4		0.0333
+404		imagine		4		0.0333
+405		introduce		4		0.0333
+406		Italy		4		0.0333
+407		keep		4		0.0333
+408		last		4		0.0333
+409		leaders		4		0.0333
+410		light		4		0.0333
+411		lose		4		0.0333
+412		lot		4		0.0333
+413		lower		4		0.0333
+414		m		4		0.0333
+415		manager		4		0.0333
+416		Many		4		0.0333
+417		market		4		0.0333
+418		mean		4		0.0333
+419		media		4		0.0333
+420		million		4		0.0333
+421		mind		4		0.0333
+422		minute		4		0.0333
+423		money		4		0.0333
+424		Mosaic		4		0.0333
+425		music		4		0.0333
+426		necessary		4		0.0333
+427		needed		4		0.0333
+428		New		4		0.0333
+429		news		4		0.0333
+430		often		4		0.0333
+431		others		4		0.0333
+432		overseas		4		0.0333
+433		paid		4		0.0333
+434		play		4		0.0333
+435		poetry		4		0.0333
+436		possible		4		0.0333
+437		potential		4		0.0333
+438		principle		4		0.0333
+439		printed		4		0.0333
+440		production		4		0.0333
+441		project		4		0.0333
+442		purple		4		0.0333
+443		red		4		0.0333
+444		remember		4		0.0333
+445		researchers		4		0.0333
+446		rich		4		0.0333
+447		running		4		0.0333
+448		sale		4		0.0333
+449		seems		4		0.0333
+450		send		4		0.0333
+451		service		4		0.0333
+452		set		4		0.0333
+453		situation		4		0.0333
+454		social		4		0.0333
+455		Some		4		0.0333
+456		space		4		0.0333
+457		spend		4		0.0333
+458		storyteller		4		0.0333
+459		student		4		0.0333
+460		support		4		0.0333
+461		table		4		0.0333
+462		teams		4		0.0333
+463		tell		4		0.0333
+464		thats		4		0.0333
+465		There		4		0.0333
+466		those		4		0.0333
+467		training		4		0.0333
+468		turned		4		0.0333
+469		United		4		0.0333
+470		unity		4		0.0333
+471		visit		4		0.0333
+472		warm		4		0.0333
+473		week		4		0.0333
+474		woman		4		0.0333
+475		word		4		0.0333
+476		works		4		0.0333
+477		yes		4		0.0333
+478		young		4		0.0333
+479		Your		4		0.0333
+480		
+Although		3		0.0249
+481		
+And		3		0.0249
+482		
+animals		3		0.0249
+483		
+Another		3		0.0249
+484		
+are		3		0.0249
+485		
+different		3		0.0249
+486		
+have		3		0.0249
+487		
+How		3		0.0249
+488		
+Id		3		0.0249
+489		
+in		3		0.0249
+490		
+Kwanzaa		3		0.0249
+491		
+long		3		0.0249
+492		
+n		3		0.0249
+493		
+or		3		0.0249
+494		
+Thank		3		0.0249
+495		
+Thats		3		0.0249
+496		
+They		3		0.0249
+497		
+Wheatley		3		0.0249
+498		
+When		3		0.0249
+499		
+would		3		0.0249
+500		
+You		3		0.0249
+501		1		3		0.0249
+502		12		3		0.0249
+503		15		3		0.0249
+504		access		3		0.0249
+505		achieve		3		0.0249
+506		addition		3		0.0249
+507		adult		3		0.0249
+508		advantages		3		0.0249
+509		advice		3		0.0249
+510		After		3		0.0249
+511		afternoon		3		0.0249
+512		age		3		0.0249
+513		always		3		0.0249
+514		animal		3		0.0249
+515		another		3		0.0249
+516		aren		3		0.0249
+517		articles		3		0.0249
+518		available		3		0.0249
+519		began		3		0.0249
+520		Bilbao		3		0.0249
+521		birds		3		0.0249
+522		black		3		0.0249
+523		Blue		3		0.0249
+524		business		3		0.0249
+525		By		3		0.0249
+526		candles		3		0.0249
+527		cant		3		0.0249
+528		Carlton		3		0.0249
+529		celebrate		3		0.0249
+530		Centre		3		0.0249
+531		ceremony		3		0.0249
+532		cities		3		0.0249
+533		cooperative		3		0.0249
+534		country		3		0.0249
+535		cover		3		0.0249
+536		defense		3		0.0249
+537		Defoe		3		0.0249
+538		deliver		3		0.0249
+539		didn		3		0.0249
+540		dolls		3		0.0249
+541		donate		3		0.0249
+542		done		3		0.0249
+543		dress		3		0.0249
+544		either		3		0.0249
+545		emotions		3		0.0249
+546		enjoy		3		0.0249
+547		especially		3		0.0249
+548		Europe		3		0.0249
+549		everybody		3		0.0249
+550		everywhere		3		0.0249
+551		extra		3		0.0249
+552		eyed		3		0.0249
+553		facilities		3		0.0249
+554		fairly		3		0.0249
+555		fall		3		0.0249
+556		famous		3		0.0249
+557		far		3		0.0249
+558		fats		3		0.0249
+559		feelings		3		0.0249
+560		five		3		0.0249
+561		focused		3		0.0249
+562		form		3		0.0249
+563		forward		3		0.0249
+564		fox		3		0.0249
+565		fruits		3		0.0249
+566		gas		3		0.0249
+567		gather		3		0.0249
+568		gave		3		0.0249
+569		gifts		3		0.0249
+570		goals		3		0.0249
+571		greatest		3		0.0249
+572		growing		3		0.0249
+573		growth		3		0.0249
+574		hands		3		0.0249
+575		happen		3		0.0249
+576		hard		3		0.0249
+577		harvest		3		0.0249
+578		Have		3		0.0249
+579		health		3		0.0249
+580		higher		3		0.0249
+581		however		3		0.0249
+582		imagination		3		0.0249
+583		Indian		3		0.0249
+584		industry		3		0.0249
+585		instead		3		0.0249
+586		interest		3		0.0249
+587		interested		3		0.0249
+588		interview		3		0.0249
+589		Jane		3		0.0249
+590		jobs		3		0.0249
+591		King		3		0.0249
+592		Kwanzaa		3		0.0249
+593		lake		3		0.0249
+594		Larry		3		0.0249
+595		Latin		3		0.0249
+596		learning		3		0.0249
+597		lecture		3		0.0249
+598		level		3		0.0249
+599		links		3		0.0249
+600		listeners		3		0.0249
+601		loss		3		0.0249
+602		low		3		0.0249
+603		made		3		0.0249
+604		magazine		3		0.0249
+605		main		3		0.0249
+606		mainly		3		0.0249
+607		making		3		0.0249
+608		Management		3		0.0249
+609		management		3		0.0249
+610		markets		3		0.0249
+611		Marsha		3		0.0249
+612		meal		3		0.0249
+613		meaning		3		0.0249
+614		meaningful		3		0.0249
+615		mechanism		3		0.0249
+616		members		3		0.0249
+617		miles		3		0.0249
+618		must		3		0.0249
+619		national		3		0.0249
+620		negative		3		0.0249
+621		No		3		0.0249
+622		off		3		0.0249
+623		offered		3		0.0249
+624		offers		3		0.0249
+625		okay		3		0.0249
+626		once		3		0.0249
+627		Only		3		0.0249
+628		open		3		0.0249
+629		opportunities		3		0.0249
+630		opportunity		3		0.0249
+631		organization		3		0.0249
+632		organizations		3		0.0249
+633		original		3		0.0249
+634		parking		3		0.0249
+635		particular		3		0.0249
+636		pass		3		0.0249
+637		patterns		3		0.0249
+638		pay		3		0.0249
+639		photo		3		0.0249
+640		placed		3		0.0249
+641		places		3		0.0249
+642		plus		3		0.0249
+643		policies		3		0.0249
+644		popular		3		0.0249
+645		Portugal		3		0.0249
+646		positioned		3		0.0249
+647		post		3		0.0249
+648		predators		3		0.0249
+649		pretty		3		0.0249
+650		private		3		0.0249
+651		professor		3		0.0249
+652		projects		3		0.0249
+653		provides		3		0.0249
+654		purpose		3		0.0249
+655		quality		3		0.0249
+656		quickly		3		0.0249
+657		rates		3		0.0249
+658		rather		3		0.0249
+659		reach		3		0.0249
+660		reasons		3		0.0249
+661		receive		3		0.0249
+662		research		3		0.0249
+663		role		3		0.0249
+664		sad		3		0.0249
+665		saying		3		0.0249
+666		schedule		3		0.0249
+667		seem		3		0.0249
+668		sign		3		0.0249
+669		since		3		0.0249
+670		skills		3		0.0249
+671		skull		3		0.0249
+672		small		3		0.0249
+673		soon		3		0.0249
+674		speak		3		0.0249
+675		special		3		0.0249
+676		speed		3		0.0249
+677		sports		3		0.0249
+678		spot		3		0.0249
+679		state		3		0.0249
+680		store		3		0.0249
+681		stores		3		0.0249
+682		sublimation		3		0.0249
+683		suggests		3		0.0249
+684		suit		3		0.0249
+685		sure		3		0.0249
+686		tall		3		0.0249
+687		telling		3		0.0249
+688		themselves		3		0.0249
+689		Then		3		0.0249
+690		thin		3		0.0249
+691		thinking		3		0.0249
+692		took		3		0.0249
+693		towns		3		0.0249
+694		toys		3		0.0249
+695		Try		3		0.0249
+696		turn		3		0.0249
+697		type		3		0.0249
+698		university		3		0.0249
+699		upon		3		0.0249
+700		vegetarian		3		0.0249
+701		web		3		0.0249
+702		website		3		0.0249
+703		Welcome		3		0.0249
+704		wont		3		0.0249
+705		worth		3		0.0249
+706		—		2		0.0166
+707		
+A		2		0.0166
+708		
+a		2		0.0166
+709		
+about		2		0.0166
+710		
+After		2		0.0166
+711		
+be		2		0.0166
+712		
+Because		2		0.0166
+713		
+been		2		0.0166
+714		
+but		2		0.0166
+715		
+by		2		0.0166
+716		
+Choosing		2		0.0166
+717		
+First		2		0.0166
+718		
+for		2		0.0166
+719		
+from		2		0.0166
+720		
+Good		2		0.0166
+721		
+Green		2		0.0166
+722		
+imagination		2		0.0166
+723		
+It		2		0.0166
+724		
+new		2		0.0166
+725		
+No		2		0.0166
+726		
+not		2		0.0166
+727		
+Other		2		0.0166
+728		
+People		2		0.0166
+729		
+price		2		0.0166
+730		
+purple		2		0.0166
+731		
+Some		2		0.0166
+732		
+technical		2		0.0166
+733		
+their		2		0.0166
+734		
+they		2		0.0166
+735		
+Uh		2		0.0166
+736		
+up		2		0.0166
+737		
+was		2		0.0166
+738		
+were		2		0.0166
+739		
+what		2		0.0166
+740		
+Why		2		0.0166
+741		
+you		2		0.0166
+742		$		2		0.0166
+743		“		2		0.0166
+744		”		2		0.0166
+745		06		2		0.0166
+746		10		2		0.0166
+747		1994		2		0.0166
+748		2		2		0.0166
+749		20		2		0.0166
+750		2016		2		0.0166
+751		2017		2		0.0166
+752		24		2		0.0166
+753		25		2		0.0166
+754		400		2		0.0166
+755		500		2		0.0166
+756		academic		2		0.0166
+757		accent		2		0.0166
+758		accept		2		0.0166
+759		according		2		0.0166
+760		acknowledging		2		0.0166
+761		acre		2		0.0166
+762		action		2		0.0166
+763		actually		2		0.0166
+764		added		2		0.0166
+765		advertisements		2		0.0166
+766		again		2		0.0166
+767		agency		2		0.0166
+768		ages		2		0.0166
+769		ago		2		0.0166
+770		agreed		2		0.0166
+771		ahead		2		0.0166
+772		airport		2		0.0166
+773		allowed		2		0.0166
+774		alone		2		0.0166
+775		Also		2		0.0166
+776		alterations		2		0.0166
+777		although		2		0.0166
+778		Although		2		0.0166
+779		America		2		0.0166
+780		Americans		2		0.0166
+781		among		2		0.0166
+782		amounts		2		0.0166
+783		analysis		2		0.0166
+784		anniversary		2		0.0166
+785		answer		2		0.0166
+786		anybody		2		0.0166
+787		anyway		2		0.0166
+788		apartment		2		0.0166
+789		appeals		2		0.0166
+790		applies		2		0.0166
+791		approach		2		0.0166
+792		arrived		2		0.0166
+793		ask		2		0.0166
+794		assets		2		0.0166
+795		atmosphere		2		0.0166
+796		avoid		2		0.0166
+797		back		2		0.0166
+798		bars		2		0.0166
+799		based		2		0.0166
+800		basic		2		0.0166
+801		beef		2		0.0166
+802		begin		2		0.0166
+803		begins		2		0.0166
+804		believe		2		0.0166
+805		believed		2		0.0166
+806		beyond		2		0.0166
+807		big		2		0.0166
+808		birthday		2		0.0166
+809		Bob		2		0.0166
+810		bought		2		0.0166
+811		boys		2		0.0166
+812		brands		2		0.0166
+813		brazil		2		0.0166
+814		bright		2		0.0166
+815		budget		2		0.0166
+816		build		2		0.0166
+817		businesses		2		0.0166
+818		buy		2		0.0166
+819		calling		2		0.0166
+820		cameras		2		0.0166
+821		campaign		2		0.0166
+822		cancer		2		0.0166
+823		capabilities		2		0.0166
+824		carbon		2		0.0166
+825		cards		2		0.0166
+826		cars		2		0.0166
+827		catch		2		0.0166
+828		causes		2		0.0166
+829		celebration		2		0.0166
+830		cell		2		0.0166
+831		check		2		0.0166
+832		Chinatown		2		0.0166
+833		cholesterol		2		0.0166
+834		choose		2		0.0166
+835		circumstances		2		0.0166
+836		city		2		0.0166
+837		clearly		2		0.0166
+838		college		2		0.0166
+839		colors		2		0.0166
+840		commitment		2		0.0166
+841		common		2		0.0166
+842		compelling		2		0.0166
+843		Comprehensive		2		0.0166
+844		computers		2		0.0166
+845		concluded		2		0.0166
+846		conducting		2		0.0166
+847		content		2		0.0166
+848		cookies		2		0.0166
+849		coordination		2		0.0166
+850		cost		2		0.0166
+851		cows		2		0.0166
+852		create		2		0.0166
+853		creates		2		0.0166
+854		creating		2		0.0166
+855		critical		2		0.0166
+856		culture		2		0.0166
+857		cultures		2		0.0166
+858		current		2		0.0166
+859		customers		2		0.0166
+860		data		2		0.0166
+861		definitely		2		0.0166
+862		department		2		0.0166
+863		describes		2		0.0166
+864		determine		2		0.0166
+865		diets		2		0.0166
+866		dioxide		2		0.0166
+867		disadvantages		2		0.0166
+868		distance		2		0.0166
+869		dogs		2		0.0166
+870		Donwell		2		0.0166
+871		dream		2		0.0166
+872		driver		2		0.0166
+873		duck		2		0.0166
+874		easier		2		0.0166
+875		easy		2		0.0166
+876		eat		2		0.0166
+877		educated		2		0.0166
+878		effect		2		0.0166
+879		effectively		2		0.0166
+880		else		2		0.0166
+881		end		2		0.0166
+882		engage		2		0.0166
+883		English		2		0.0166
+884		enhance		2		0.0166
+885		ensure		2		0.0166
+886		environmental		2		0.0166
+887		epidemiological		2		0.0166
+888		etc		2		0.0166
+889		evening		2		0.0166
+890		exactly		2		0.0166
+891		excellent		2		0.0166
+892		existing		2		0.0166
+893		expensive		2		0.0166
+894		experiences		2		0.0166
+895		extraordinary		2		0.0166
+896		face		2		0.0166
+897		facts		2		0.0166
+898		farmland		2		0.0166
+899		fear		2		0.0166
+900		feeling		2		0.0166
+901		field		2		0.0166
+902		fields		2		0.0166
+903		financial		2		0.0166
+904		fine		2		0.0166
+905		First		2		0.0166
+906		fish		2		0.0166
+907		fit		2		0.0166
+908		flat		2		0.0166
+909		follow		2		0.0166
+910		followed		2		0.0166
+911		foods		2		0.0166
+912		forbid		2		0.0166
+913		fortunately		2		0.0166
+914		forty		2		0.0166
+915		Forward		2		0.0166
+916		found		2		0.0166
+917		founded		2		0.0166
+918		four		2		0.0166
+919		free		2		0.0166
+920		fresh		2		0.0166
+921		Friday		2		0.0166
+922		front		2		0.0166
+923		gallons		2		0.0166
+924		gentlemen		2		0.0166
+925		Get		2		0.0166
+926		gift		2		0.0166
+927		girls		2		0.0166
+928		gives		2		0.0166
+929		goods		2		0.0166
+930		Greece		2		0.0166
+931		habits		2		0.0166
+932		hair		2		0.0166
+933		happens		2		0.0166
+934		Harambee		2		0.0166
+935		harm		2		0.0166
+936		hate		2		0.0166
+937		haven		2		0.0166
+938		having		2		0.0166
+939		Hawks		2		0.0166
+940		head		2		0.0166
+941		headed		2		0.0166
+942		hear		2		0.0166
+943		height		2		0.0166
+944		Hello		2		0.0166
+945		helping		2		0.0166
+946		hike		2		0.0166
+947		homemade		2		0.0166
+948		hope		2		0.0166
+949		hopes		2		0.0166
+950		hour		2		0.0166
+951		However		2		0.0166
+952		humans		2		0.0166
+953		idea		2		0.0166
+954		immediate		2		0.0166
+955		importance		2		0.0166
+956		including		2		0.0166
+957		increase		2		0.0166
+958		initial		2		0.0166
+959		Instead		2		0.0166
+960		international		2		0.0166
+961		internship		2		0.0166
+962		introducing		2		0.0166
+963		issue		2		0.0166
+964		items		2		0.0166
+965		John		2		0.0166
+966		Just		2		0.0166
+967		Keys		2		0.0166
+968		kind		2		0.0166
+969		king		2		0.0166
+970		KiSwahili		2		0.0166
+971		knowledge		2		0.0166
+972		known		2		0.0166
+973		Lake		2		0.0166
+974		land		2		0.0166
+975		languages		2		0.0166
+976		lasts		2		0.0166
+977		late		2		0.0166
+978		later		2		0.0166
+979		laws		2		0.0166
+980		leader		2		0.0166
+981		leadership		2		0.0166
+982		leave		2		0.0166
+983		leaves		2		0.0166
+984		legislation		2		0.0166
+985		levels		2		0.0166
+986		lights		2		0.0166
+987		link		2		0.0166
+988		lit		2		0.0166
+989		live		2		0.0166
+990		looking		2		0.0166
+991		lost		2		0.0166
+992		loud		2		0.0166
+993		lowered		2		0.0166
+994		magic		2		0.0166
+995		man		2		0.0166
+996		Mattel		2		0.0166
+997		matters		2		0.0166
+998		meetings		2		0.0166
+999		memories		2		0.0166
+1000		men		2		0.0166
+1001		metal		2		0.0166
+1002		methane		2		0.0166
+1003		misses		2		0.0166
+1004		moment		2		0.0166
+1005		monster		2		0.0166
+1006		months		2		0.0166
+1007		morning		2		0.0166
+1008		Most		2		0.0166
+1009		mostly		2		0.0166
+1010		Motors		2		0.0166
+1011		mountain		2		0.0166
+1012		mouse		2		0.0166
+1013		moving		2		0.0166
+1014		Mrs		2		0.0166
+1015		naturally		2		0.0166
+1016		near		2		0.0166
+1017		nearly		2		0.0166
+1018		networks		2		0.0166
+1019		never		2		0.0166
+1020		newly		2		0.0166
+1021		newspapers		2		0.0166
+1022		nobody		2		0.0166
+1023		non		2		0.0166
+1024		numbers		2		0.0166
+1025		numerous		2		0.0166
+1026		nutritionists		2		0.0166
+1027		nuts		2		0.0166
+1028		objectives		2		0.0166
+1029		ocean		2		0.0166
+1030		offer		2		0.0166
+1031		oil		2		0.0166
+1032		olive		2		0.0166
+1033		Once		2		0.0166
+1034		Or		2		0.0166
+1035		organized		2		0.0166
+1036		ought		2		0.0166
+1037		Our		2		0.0166
+1038		overall		2		0.0166
+1039		owner		2		0.0166
+1040		pain		2		0.0166
+1041		particularly		2		0.0166
+1042		parts		2		0.0166
+1043		party		2		0.0166
+1044		past		2		0.0166
+1045		Paul		2		0.0166
+1046		per		2		0.0166
+1047		percentage		2		0.0166
+1048		performed		2		0.0166
+1049		perhaps		2		0.0166
+1050		Perhaps		2		0.0166
+1051		personality		2		0.0166
+1052		personnel		2		0.0166
+1053		phones		2		0.0166
+1054		place		2		0.0166
+1055		placement		2		0.0166
+1056		plan		2		0.0166
+1057		planet		2		0.0166
+1058		planned		2		0.0166
+1059		planning		2		0.0166
+1060		plans		2		0.0166
+1061		platform		2		0.0166
+1062		playing		2		0.0166
+1063		plays		2		0.0166
+1064		population		2		0.0166
+1065		Portuga		2		0.0166
+1066		pound		2		0.0166
+1067		power		2		0.0166
+1068		powerful		2		0.0166
+1069		present		2		0.0166
+1070		principally		2		0.0166
+1071		principles		2		0.0166
+1072		Professor		2		0.0166
+1073		profits		2		0.0166
+1074		programs		2		0.0166
+1075		promotion		2		0.0166
+1076		protect		2		0.0166
+1077		publication		2		0.0166
+1078		purchase		2		0.0166
+1079		purchased		2		0.0166
+1080		qualities		2		0.0166
+1081		raise		2		0.0166
+1082		reached		2		0.0166
+1083		read		2		0.0166
+1084		reading		2		0.0166
+1085		realize		2		0.0166
+1086		realized		2		0.0166
+1087		reason		2		0.0166
+1088		recent		2		0.0166
+1089		recently		2		0.0166
+1090		reduce		2		0.0166
+1091		reduced		2		0.0166
+1092		relationships		2		0.0166
+1093		release		2		0.0166
+1094		repeat		2		0.0166
+1095		represents		2		0.0166
+1096		require		2		0.0166
+1097		rest		2		0.0166
+1098		ride		2		0.0166
+1099		Right		2		0.0166
+1100		robot		2		0.0166
+1101		robotic		2		0.0166
+1102		romantic		2		0.0166
+1103		runs		2		0.0166
+1104		Rupee		2		0.0166
+1105		said		2		0.0166
+1106		Saint		2		0.0166
+1107		salary		2		0.0166
+1108		Saturated		2		0.0166
+1109		savings		2		0.0166
+1110		says		2		0.0166
+1111		Sea		2		0.0166
+1112		season		2		0.0166
+1113		seat		2		0.0166
+1114		second		2		0.0166
+1115		secondary		2		0.0166
+1116		seek		2		0.0166
+1117		seen		2		0.0166
+1118		sell		2		0.0166
+1119		sense		2		0.0166
+1120		serious		2		0.0166
+1121		sets		2		0.0166
+1122		shapes		2		0.0166
+1123		showed		2		0.0166
+1124		shy		2		0.0166
+1125		sight		2		0.0166
+1126		Silicon		2		0.0166
+1127		similar		2		0.0166
+1128		singing		2		0.0166
+1129		site		2		0.0166
+1130		skin		2		0.0166
+1131		slave		2		0.0166
+1132		slightly		2		0.0166
+1133		soft		2		0.0166
+1134		sold		2		0.0166
+1135		Sometimes		2		0.0166
+1136		sometimes		2		0.0166
+1137		sorry		2		0.0166
+1138		sounds		2		0.0166
+1139		south		2		0.0166
+1140		Spain		2		0.0166
+1141		star		2		0.0166
+1142		starting		2		0.0166
+1143		statement		2		0.0166
+1144		step		2		0.0166
+1145		stop		2		0.0166
+1146		Stories		2		0.0166
+1147		styles		2		0.0166
+1148		success		2		0.0166
+1149		successful		2		0.0166
+1150		Sunday		2		0.0166
+1151		supermarkets		2		0.0166
+1152		suppose		2		0.0166
+1153		surely		2		0.0166
+1154		survive		2		0.0166
+1155		swim		2		0.0166
+1156		switching		2		0.0166
+1157		system		2		0.0166
+1158		tailoring		2		0.0166
+1159		Take		2		0.0166
+1160		taken		2		0.0166
+1161		taking		2		0.0166
+1162		techniques		2		0.0166
+1163		technology		2		0.0166
+1164		television		2		0.0166
+1165		temperature		2		0.0166
+1166		ten		2		0.0166
+1167		term		2		0.0166
+1168		terms		2		0.0166
+1169		tests		2		0.0166
+1170		th		2		0.0166
+1171		theater		2		0.0166
+1172		These		2		0.0166
+1173		Today		2		0.0166
+1174		told		2		0.0166
+1175		tones		2		0.0166
+1176		topic		2		0.0166
+1177		traditional		2		0.0166
+1178		train		2		0.0166
+1179		turning		2		0.0166
+1180		twenty		2		0.0166
+1181		Uh		2		0.0166
+1182		uh		2		0.0166
+1183		unconsciously		2		0.0166
+1184		understanding		2		0.0166
+1185		until		2		0.0166
+1186		users		2		0.0166
+1187		uses		2		0.0166
+1188		using		2		0.0166
+1189		valley		2		0.0166
+1190		vehicles		2		0.0166
+1191		video		2		0.0166
+1192		virtually		2		0.0166
+1193		vision		2		0.0166
+1194		vocational		2		0.0166
+1195		wants		2		0.0166
+1196		warming		2		0.0166
+1197		Warwick		2		0.0166
+1198		Washington		2		0.0166
+1199		waves		2		0.0166
+1200		weekend		2		0.0166
+1201		went		2		0.0166
+1202		What		2		0.0166
+1203		Wheatley		2		0.0166
+1204		When		2		0.0166
+1205		While		2		0.0166
+1206		whizzing		2		0.0166
+1207		whose		2		0.0166
+1208		Will		2		0.0166
+1209		willing		2		0.0166
+1210		win		2		0.0166
+1211		With		2		0.0166
+1212		without		2		0.0166
+1213		won		2		0.0166
+1214		worry		2		0.0166
+1215		wouldn		2		0.0166
+1216		write		2		0.0166
+1217		writers		2		0.0166
+1218		writing		2		0.0166
+1219		–		1		0.0083
+1220		
+1773		1		0.0083
+1221		
+75		1		0.0083
+1222		
+Abbey		1		0.0083
+1223		
+able		1		0.0083
+1224		
+activities		1		0.0083
+1225		
+activity		1		0.0083
+1226		
+adult		1		0.0083
+1227		
+Advertising		1		0.0083
+1228		
+advertising		1		0.0083
+1229		
+afternoon		1		0.0083
+1230		
+agency		1		0.0083
+1231		
+Ah		1		0.0083
+1232		
+Also		1		0.0083
+1233		
+Andreessen		1		0.0083
+1234		
+approach		1		0.0083
+1235		
+approaching		1		0.0083
+1236		
+Are		1		0.0083
+1237		
+around		1		0.0083
+1238		
+As		1		0.0083
+1239		
+as		1		0.0083
+1240		
+At		1		0.0083
+1241		
+attending		1		0.0083
+1242		
+audience		1		0.0083
+1243		
+avoid		1		0.0083
+1244		
+Barbie		1		0.0083
+1245		
+basis		1		0.0083
+1246		
+baskets		1		0.0083
+1247		
+battle		1		0.0083
+1248		
+began		1		0.0083
+1249		
+Birds		1		0.0083
+1250		
+blues		1		0.0083
+1251		
+board		1		0.0083
+1252		
+Brick		1		0.0083
+1253		
+budget		1		0.0083
+1254		
+build		1		0.0083
+1255		
+building		1		0.0083
+1256		
+busy		1		0.0083
+1257		
+can		1		0.0083
+1258		
+Capitalism		1		0.0083
+1259		
+Career		1		0.0083
+1260		
+CD		1		0.0083
+1261		
+challenge		1		0.0083
+1262		
+changed		1		0.0083
+1263		
+Changing		1		0.0083
+1264		
+charity		1		0.0083
+1265		
+Charles		1		0.0083
+1266		
+check		1		0.0083
+1267		
+choices		1		0.0083
+1268		
+choose		1		0.0083
+1269		
+common		1		0.0083
+1270		
+company		1		0.0083
+1271		
+connected		1		0.0083
+1272		
+Consider		1		0.0083
+1273		
+consumer		1		0.0083
+1274		
+contains		1		0.0083
+1275		
+cookies		1		0.0083
+1276		
+corporation		1		0.0083
+1277		
+created		1		0.0083
+1278		
+daily		1		0.0083
+1279		
+damage		1		0.0083
+1280		
+danger		1		0.0083
+1281		
+defense		1		0.0083
+1282		
+delegate		1		0.0083
+1283		
+departments		1		0.0083
+1284		
+developing		1		0.0083
+1285		
+Did		1		0.0083
+1286		
+discovered		1		0.0083
+1287		
+doing		1		0.0083
+1288		
+don		1		0.0083
+1289		
+down		1		0.0083
+1290		
+E		1		0.0083
+1291		
+Each		1		0.0083
+1292		
+Early		1		0.0083
+1293		
+easier		1		0.0083
+1294		
+easily		1		0.0083
+1295		
+edge		1		0.0083
+1296		
+employment		1		0.0083
+1297		
+enables		1		0.0083
+1298		
+England		1		0.0083
+1299		
+enough		1		0.0083
+1300		
+enthusiasm		1		0.0083
+1301		
+er		1		0.0083
+1302		
+example		1		0.0083
+1303		
+Except		1		0.0083
+1304		
+excludes		1		0.0083
+1305		
+expenses		1		0.0083
+1306		
+experience		1		0.0083
+1307		
+experiment		1		0.0083
+1308		
+explain		1		0.0083
+1309		
+extended		1		0.0083
+1310		
+f		1		0.0083
+1311		
+faster		1		0.0083
+1312		
+February		1		0.0083
+1313		
+feeling		1		0.0083
+1314		
+Fire		1		0.0083
+1315		
+first		1		0.0083
+1316		
+five		1		0.0083
+1317		
+following		1		0.0083
+1318		
+For		1		0.0083
+1319		
+forgotten		1		0.0083
+1320		
+fortune		1		0.0083
+1321		
+fun		1		0.0083
+1322		
+Furthermore		1		0.0083
+1323		
+gets		1		0.0083
+1324		
+getting		1		0.0083
+1325		
+girls		1		0.0083
+1326		
+go		1		0.0083
+1327		
+great		1		0.0083
+1328		
+Great		1		0.0083
+1329		
+green		1		0.0083
+1330		
+group		1		0.0083
+1331		
+happens		1		0.0083
+1332		
+he		1		0.0083
+1333		
+help		1		0.0083
+1334		
+helpless		1		0.0083
+1335		
+helps		1		0.0083
+1336		
+her		1		0.0083
+1337		
+Here		1		0.0083
+1338		
+here		1		0.0083
+1339		
+Hey		1		0.0083
+1340		
+High		1		0.0083
+1341		
+his		1		0.0083
+1342		
+holiday		1		0.0083
+1343		
+honored		1		0.0083
+1344		
+Hope		1		0.0083
+1345		
+hoping		1		0.0083
+1346		
+human		1		0.0083
+1347		
+if		1		0.0083
+1348		
+Important		1		0.0083
+1349		
+improve		1		0.0083
+1350		
+increase		1		0.0083
+1351		
+Indian		1		0.0083
+1352		
+individuals		1		0.0083
+1353		
+Inflation		1		0.0083
+1354		
+initial		1		0.0083
+1355		
+Instead		1		0.0083
+1356		
+institutional		1		0.0083
+1357		
+integrates		1		0.0083
+1358		
+International		1		0.0083
+1359		
+introduce		1		0.0083
+1360		
+introspection		1		0.0083
+1361		
+is		1		0.0083
+1362		
+Japan		1		0.0083
+1363		
+Jim		1		0.0083
+1364		
+Just		1		0.0083
+1365		
+know		1		0.0083
+1366		
+knowledge		1		0.0083
+1367		
+Ladies		1		0.0083
+1368		
+Larry		1		0.0083
+1369		
+Last		1		0.0083
+1370		
+last		1		0.0083
+1371		
+leaning		1		0.0083
+1372		
+lends		1		0.0083
+1373		
+life		1		0.0083
+1374		
+likely		1		0.0083
+1375		
+Look		1		0.0083
+1376		
+Louis		1		0.0083
+1377		
+magazine		1		0.0083
+1378		
+main		1		0.0083
+1379		
+make		1		0.0083
+1380		
+making		1		0.0083
+1381		
+managers		1		0.0083
+1382		
+manuscripts		1		0.0083
+1383		
+market		1		0.0083
+1384		
+Marsha		1		0.0083
+1385		
+Mary		1		0.0083
+1386		
+meaningful		1		0.0083
+1387		
+memories		1		0.0083
+1388		
+meters		1		0.0083
+1389		
+methane		1		0.0083
+1390		
+Milstein		1		0.0083
+1391		
+minutes		1		0.0083
+1392		
+mmm		1		0.0083
+1393		
+Moderator		1		0.0083
+1394		
+monster		1		0.0083
+1395		
+more		1		0.0083
+1396		
+move		1		0.0083
+1397		
+movements		1		0.0083
+1398		
+Much		1		0.0083
+1399		
+museum		1		0.0083
+1400		
+music		1		0.0083
+1401		
+Music		1		0.0083
+1402		
+myself		1		0.0083
+1403		
+need		1		0.0083
+1404		
+negative		1		0.0083
+1405		
+Next		1		0.0083
+1406		
+Nonetheless		1		0.0083
+1407		
+Now		1		0.0083
+1408		
+numbers		1		0.0083
+1409		
+objectively		1		0.0083
+1410		
+ocean		1		0.0083
+1411		
+OK		1		0.0083
+1412		
+Ok		1		0.0083
+1413		
+Okay		1		0.0083
+1414		
+Once		1		0.0083
+1415		
+one		1		0.0083
+1416		
+opportunities		1		0.0083
+1417		
+opportunity		1		0.0083
+1418		
+organizational		1		0.0083
+1419		
+out		1		0.0083
+1420		
+painful		1		0.0083
+1421		
+Parking		1		0.0083
+1422		
+percent		1		0.0083
+1423		
+Phillis		1		0.0083
+1424		
+philosophical		1		0.0083
+1425		
+Please		1		0.0083
+1426		
+point		1		0.0083
+1427		
+port		1		0.0083
+1428		
+pounds		1		0.0083
+1429		
+prayer		1		0.0083
+1430		
+prepared		1		0.0083
+1431		
+Presumably		1		0.0083
+1432		
+pretested		1		0.0083
+1433		
+problem		1		0.0083
+1434		
+problems		1		0.0083
+1435		
+process		1		0.0083
+1436		
+produce		1		0.0083
+1437		
+protecting		1		0.0083
+1438		
+publication		1		0.0083
+1439		
+publish		1		0.0083
+1440		
+Rather		1		0.0083
+1441		
+really		1		0.0083
+1442		
+Really		1		0.0083
+1443		
+related		1		0.0083
+1444		
+relating		1		0.0083
+1445		
+Remember		1		0.0083
+1446		
+response		1		0.0083
+1447		
+retirement		1		0.0083
+1448		
+Review		1		0.0083
+1449		
+Right		1		0.0083
+1450		
+Rituals		1		0.0083
+1451		
+road		1		0.0083
+1452		
+roller		1		0.0083
+1453		
+Rupee		1		0.0083
+1454		
+Sales		1		0.0083
+1455		
+Say		1		0.0083
+1456		
+school		1		0.0083
+1457		
+Sebastian		1		0.0083
+1458		
+sell		1		0.0083
+1459		
+setting		1		0.0083
+1460		
+Several		1		0.0083
+1461		
+shared		1		0.0083
+1462		
+sharp		1		0.0083
+1463		
+She		1		0.0083
+1464		
+shopping		1		0.0083
+1465		
+shows		1		0.0083
+1466		
+signal		1		0.0083
+1467		
+site		1		0.0083
+1468		
+skull		1		0.0083
+1469		
+Smaller		1		0.0083
+1470		
+somebody		1		0.0083
+1471		
+something		1		0.0083
+1472		
+sources		1		0.0083
+1473		
+space		1		0.0083
+1474		
+speakers		1		0.0083
+1475		
+specific		1		0.0083
+1476		
+Start		1		0.0083
+1477		
+stomach		1		0.0083
+1478		
+stories		1		0.0083
+1479		
+story		1		0.0083
+1480		
+stressful		1		0.0083
+1481		
+strike		1		0.0083
+1482		
+student		1		0.0083
+1483		
+students		1		0.0083
+1484		
+study		1		0.0083
+1485		
+styles		1		0.0083
+1486		
+subsidiary		1		0.0083
+1487		
+success		1		0.0083
+1488		
+successfully		1		0.0083
+1489		
+suggested		1		0.0083
+1490		
+superior		1		0.0083
+1491		
+survival		1		0.0083
+1492		
+switch		1		0.0083
+1493		
+tax		1		0.0083
+1494		
+Team		1		0.0083
+1495		
+techniques		1		0.0083
+1496		
+technology		1		0.0083
+1497		
+temperature		1		0.0083
+1498		
+than		1		0.0083
+1499		
+That		1		0.0083
+1500		
+them		1		0.0083
+1501		
+then		1		0.0083
+1502		
+Then		1		0.0083
+1503		
+there		1		0.0083
+1504		
+There		1		0.0083
+1505		
+these		1		0.0083
+1506		
+thing		1		0.0083
+1507		
+things		1		0.0083
+1508		
+think		1		0.0083
+1509		
+this		1		0.0083
+1510		
+through		1		0.0083
+1511		
+time		1		0.0083
+1512		
+To		1		0.0083
+1513		
+Today		1		0.0083
+1514		
+todays		1		0.0083
+1515		
+tools		1		0.0083
+1516		
+totally		1		0.0083
+1517		
+training		1		0.0083
+1518		
+transitions		1		0.0083
+1519		
+transmit		1		0.0083
+1520		
+transmitters		1		0.0083
+1521		
+Ugh		1		0.0083
+1522		
+University		1		0.0083
+1523		
+used		1		0.0083
+1524		
+using		1		0.0083
+1525		
+very		1		0.0083
+1526		
+wait		1		0.0083
+1527		
+wanted		1		0.0083
+1528		
+warranty		1		0.0083
+1529		
+Warwick		1		0.0083
+1530		
+water		1		0.0083
+1531		
+ways		1		0.0083
+1532		
+we		1		0.0083
+1533		
+weekly		1		0.0083
+1534		
+weight		1		0.0083
+1535		
+welcome		1		0.0083
+1536		
+which		1		0.0083
+1537		
+who		1		0.0083
+1538		
+whole		1		0.0083
+1539		
+width		1		0.0083
+1540		
+Will		1		0.0083
+1541		
+with		1		0.0083
+1542		
+woman		1		0.0083
+1543		
+work		1		0.0083
+1544		
+workshops		1		0.0083
+1545		
+Would		1		0.0083
+1546		
+years		1		0.0083
+1547		#		1		0.0083
+1548		/w		1		0.0083
+1549		…		1		0.0083
+1550		100		1		0.0083
+1551		104		1		0.0083
+1552		13		1		0.0083
+1553		1450		1		0.0083
+1554		1500		1		0.0083
+1555		16		1		0.0083
+1556		1672		1		0.0083
+1557		1704		1		0.0083
+1558		1709		1		0.0083
+1559		18		1		0.0083
+1560		180		1		0.0083
+1561		1950		1		0.0083
+1562		1966		1		0.0083
+1563		1993		1		0.0083
+1564		200		1		0.0083
+1565		2012		1		0.0083
+1566		2015		1		0.0083
+1567		22		1		0.0083
+1568		23		1		0.0083
+1569		250		1		0.0083
+1570		26		1		0.0083
+1571		30		1		0.0083
+1572		4		1		0.0083
+1573		40		1		0.0083
+1574		45		1		0.0083
+1575		50		1		0.0083
+1576		62		1		0.0083
+1577		67		1		0.0083
+1578		70		1		0.0083
+1579		75		1		0.0083
+1580		775		1		0.0083
+1581		8		1		0.0083
+1582		868		1		0.0083
+1583		9		1		0.0083
+1584		99		1		0.0083
+1585		abbey		1		0.0083
+1586		Abbey		1		0.0083
+1587		Abby		1		0.0083
+1588		absorb		1		0.0083
+1589		abundant		1		0.0083
+1590		academically		1		0.0083
+1591		acceptable		1		0.0083
+1592		accessed		1		0.0083
+1593		accessible		1		0.0083
+1594		accessories		1		0.0083
+1595		accommodation		1		0.0083
+1596		accomplished		1		0.0083
+1597		achievement		1		0.0083
+1598		acknowledge		1		0.0083
+1599		actions		1		0.0083
+1600		active		1		0.0083
+1601		activities		1		0.0083
+1602		activity		1		0.0083
+1603		actual		1		0.0083
+1604		Actually		1		0.0083
+1605		adhere		1		0.0083
+1606		adjustment		1		0.0083
+1607		adjustments		1		0.0083
+1608		administers		1		0.0083
+1609		admirable		1		0.0083
+1610		admit		1		0.0083
+1611		ads		1		0.0083
+1612		adults		1		0.0083
+1613		advise		1		0.0083
+1614		affairs		1		0.0083
+1615		affects		1		0.0083
+1616		affordable		1		0.0083
+1617		Africa		1		0.0083
+1618		against		1		0.0083
+1619		Agencies		1		0.0083
+1620		agencies		1		0.0083
+1621		agree		1		0.0083
+1622		aid		1		0.0083
+1623		aims		1		0.0083
+1624		air		1		0.0083
+1625		allergic		1		0.0083
+1626		allow		1		0.0083
+1627		allowance		1		0.0083
+1628		allows		1		0.0083
+1629		along		1		0.0083
+1630		alternately		1		0.0083
+1631		alternative		1		0.0083
+1632		amazed		1		0.0083
+1633		ambassador		1		0.0083
+1634		ambiguity		1		0.0083
+1635		amount		1		0.0083
+1636		An		1		0.0083
+1637		analyze		1		0.0083
+1638		analyzing		1		0.0083
+1639		Ancel		1		0.0083
+1640		anchor		1		0.0083
+1641		anecdotes		1		0.0083
+1642		Antwerp		1		0.0083
+1643		appear		1		0.0083
+1644		appeared		1		0.0083
+1645		appears		1		0.0083
+1646		applied		1		0.0083
+1647		appointments		1		0.0083
+1648		approaches		1		0.0083
+1649		approval		1		0.0083
+1650		aquarium		1		0.0083
+1651		Are		1		0.0083
+1652		area		1		0.0083
+1653		Ari		1		0.0083
+1654		arise		1		0.0083
+1655		arrangements		1		0.0083
+1656		arrested		1		0.0083
+1657		arrivals		1		0.0083
+1658		As		1		0.0083
+1659		aside		1		0.0083
+1660		asking		1		0.0083
+1661		asks		1		0.0083
+1662		aspect		1		0.0083
+1663		aspects		1		0.0083
+1664		assertedness		1		0.0083
+1665		assist		1		0.0083
+1666		assistance		1		0.0083
+1667		assisted		1		0.0083
+1668		assume		1		0.0083
+1669		astronaut		1		0.0083
+1670		At		1		0.0083
+1671		attached		1		0.0083
+1672		attempts		1		0.0083
+1673		attendant		1		0.0083
+1674		attendants		1		0.0083
+1675		attention		1		0.0083
+1676		attracted		1		0.0083
+1677		Australian		1		0.0083
+1678		authentic		1		0.0083
+1679		automated		1		0.0083
+1680		automatically		1		0.0083
+1681		Automation		1		0.0083
+1682		Avenue		1		0.0083
+1683		average		1		0.0083
+1684		award		1		0.0083
+1685		aware		1		0.0083
+1686		b		1		0.0083
+1687		bad		1		0.0083
+1688		badly		1		0.0083
+1689		balance		1		0.0083
+1690		Balkan		1		0.0083
+1691		band		1		0.0083
+1692		bank		1		0.0083
+1693		banned		1		0.0083
+1694		bar		1		0.0083
+1695		bargain		1		0.0083
+1696		base		1		0.0083
+1697		baseball		1		0.0083
+1698		basement		1		0.0083
+1699		bath		1		0.0083
+1700		bathroom		1		0.0083
+1701		battery		1		0.0083
+1702		beat		1		0.0083
+1703		beauty		1		0.0083
+1704		became		1		0.0083
+1705		Becker		1		0.0083
+1706		Begin		1		0.0083
+1707		begun		1		0.0083
+1708		behind		1		0.0083
+1709		believes		1		0.0083
+1710		belonged		1		0.0083
+1711		beneath		1		0.0083
+1712		benefit		1		0.0083
+1713		besides		1		0.0083
+1714		bet		1		0.0083
+1715		between		1		0.0083
+1716		bible		1		0.0083
+1717		biggest		1		0.0083
+1718		bike		1		0.0083
+1719		bit		1		0.0083
+1720		blindly		1		0.0083
+1721		blissful		1		0.0083
+1722		board		1		0.0083
+1723		boarding		1		0.0083
+1724		bodies		1		0.0083
+1725		bonding		1		0.0083
+1726		boosting		1		0.0083
+1727		Boston		1		0.0083
+1728		both		1		0.0083
+1729		bowl		1		0.0083
+1730		box		1		0.0083
+1731		brackets		1		0.0083
+1732		brain		1		0.0083
+1733		Brazil		1		0.0083
+1734		bread		1		0.0083
+1735		breath		1		0.0083
+1736		breeze		1		0.0083
+1737		brief		1		0.0083
+1738		British		1		0.0083
+1739		broad		1		0.0083
+1740		broken		1		0.0083
+1741		brought		1		0.0083
+1742		Business		1		0.0083
+1743		butterflies		1		0.0083
+1744		Buy		1		0.0083
+1745		buying		1		0.0083
+1746		C		1		0.0083
+1747		Calculate		1		0.0083
+1748		calendar		1		0.0083
+1749		call		1		0.0083
+1750		calls		1		0.0083
+1751		calories		1		0.0083
+1752		came		1		0.0083
+1753		Can		1		0.0083
+1754		cancelled		1		0.0083
+1755		cap		1		0.0083
+1756		capitalist		1		0.0083
+1757		capitalists		1		0.0083
+1758		capitalize		1		0.0083
+1759		card		1		0.0083
+1760		Career		1		0.0083
+1761		careers		1		0.0083
+1762		careersonline		1		0.0083
+1763		carefully		1		0.0083
+1764		carpentry		1		0.0083
+1765		carve		1		0.0083
+1766		case		1		0.0083
+1767		Casey		1		0.0083
+1768		cash		1		0.0083
+1769		Catholic		1		0.0083
+1770		cats		1		0.0083
+1771		caught		1		0.0083
+1772		cause		1		0.0083
+1773		CBC		1		0.0083
+1774		center		1		0.0083
+1775		certainly		1		0.0083
+1776		certificates		1		0.0083
+1777		chairs		1		0.0083
+1778		challenge		1		0.0083
+1779		chances		1		0.0083
+1780		changed		1		0.0083
+1781		changes		1		0.0083
+1782		charity		1		0.0083
+1783		cheap		1		0.0083
+1784		cheated		1		0.0083
+1785		cheer		1		0.0083
+1786		China		1		0.0083
+1787		chips		1		0.0083
+1788		choices		1		0.0083
+1789		choosing		1		0.0083
+1790		chose		1		0.0083
+1791		chosen		1		0.0083
+1792		Church		1		0.0083
+1793		cir		1		0.0083
+1794		circulation		1		0.0083
+1795		clark		1		0.0083
+1796		classroom		1		0.0083
+1797		client		1		0.0083
+1798		Clinic		1		0.0083
+1799		clubs		1		0.0083
+1800		coach		1		0.0083
+1801		coeducational		1		0.0083
+1802		cold		1		0.0083
+1803		colleagues		1		0.0083
+1804		collective		1		0.0083
+1805		Colonial		1		0.0083
+1806		colonial		1		0.0083
+1807		colours		1		0.0083
+1808		Columbia		1		0.0083
+1809		com		1		0.0083
+1810		comfort		1		0.0083
+1811		comfortable		1		0.0083
+1812		coming		1		0.0083
+1813		commercialism		1		0.0083
+1814		commercials		1		0.0083
+1815		communal		1		0.0083
+1816		communicate		1		0.0083
+1817		communicated		1		0.0083
+1818		compare		1		0.0083
+1819		compares		1		0.0083
+1820		competitors		1		0.0083
+1821		completed		1		0.0083
+1822		completely		1		0.0083
+1823		complicate		1		0.0083
+1824		complimentary		1		0.0083
+1825		comply		1		0.0083
+1826		composed		1		0.0083
+1827		comprehensive		1		0.0083
+1828		computeraided		1		0.0083
+1829		concepts		1		0.0083
+1830		concerned		1		0.0083
+1831		concerning		1		0.0083
+1832		concerns		1		0.0083
+1833		condition		1		0.0083
+1834		conducted		1		0.0083
+1835		confidence		1		0.0083
+1836		confident		1		0.0083
+1837		confront		1		0.0083
+1838		confuse		1		0.0083
+1839		confusion		1		0.0083
+1840		connect		1		0.0083
+1841		connecting		1		0.0083
+1842		connection		1		0.0083
+1843		cons		1		0.0083
+1844		considered		1		0.0083
+1845		considering		1		0.0083
+1846		consist		1		0.0083
+1847		constant		1		0.0083
+1848		constructive		1		0.0083
+1849		consumerism		1		0.0083
+1850		consumption		1		0.0083
+1851		contain		1		0.0083
+1852		contained		1		0.0083
+1853		continued		1		0.0083
+1854		continuity		1		0.0083
+1855		contribution		1		0.0083
+1856		controlled		1		0.0083
+1857		conversations		1		0.0083
+1858		cooking		1		0.0083
+1859		cooperate		1		0.0083
+1860		Cooperation		1		0.0083
+1861		cooperation		1		0.0083
+1862		Cornell		1		0.0083
+1863		corner		1		0.0083
+1864		corns		1		0.0083
+1865		correctly		1		0.0083
+1866		costs		1		0.0083
+1867		counting		1		0.0083
+1868		Countries		1		0.0083
+1869		course		1		0.0083
+1870		covering		1		0.0083
+1871		covers		1		0.0083
+1872		cow		1		0.0083
+1873		coworkers		1		0.0083
+1874		created		1		0.0083
+1875		creativity		1		0.0083
+1876		creature		1		0.0083
+1877		credibility		1		0.0083
+1878		credit		1		0.0083
+1879		Crediting		1		0.0083
+1880		criticized		1		0.0083
+1881		Croatia		1		0.0083
+1882		crop		1		0.0083
+1883		cross		1		0.0083
+1884		culation		1		0.0083
+1885		cultivate		1		0.0083
+1886		currently		1		0.0083
+1887		customer		1		0.0083
+1888		cut		1		0.0083
+1889		cuts		1		0.0083
+1890		cycle		1		0.0083
+1891		D		1		0.0083
+1892		dairy		1		0.0083
+1893		danger		1		0.0083
+1894		Daniel		1		0.0083
+1895		dark		1		0.0083
+1896		David		1		0.0083
+1897		Day		1		0.0083
+1898		deadline		1		0.0083
+1899		deal		1		0.0083
+1900		decades		1		0.0083
+1901		December		1		0.0083
+1902		decided		1		0.0083
+1903		decision		1		0.0083
+1904		Declaration		1		0.0083
+1905		deep		1		0.0083
+1906		deficient		1		0.0083
+1907		deficit		1		0.0083
+1908		degree		1		0.0083
+1909		delivering		1		0.0083
+1910		denied		1		0.0083
+1911		Denver		1		0.0083
+1912		depends		1		0.0083
+1913		depth		1		0.0083
+1914		describe		1		0.0083
+1915		designed		1		0.0083
+1916		Despite		1		0.0083
+1917		dessert		1		0.0083
+1918		details		1		0.0083
+1919		determination		1		0.0083
+1920		develop		1		0.0083
+1921		developers		1		0.0083
+1922		develops		1		0.0083
+1923		device		1		0.0083
+1924		dictionaries		1		0.0083
+1925		die		1		0.0083
+1926		died		1		0.0083
+1927		difference		1		0.0083
+1928		differs		1		0.0083
+1929		dimmed		1		0.0083
+1930		dinner		1		0.0083
+1931		direction		1		0.0083
+1932		directions		1		0.0083
+1933		directives		1		0.0083
+1934		director		1		0.0083
+1935		discovered		1		0.0083
+1936		discuss		1		0.0083
+1937		disposable		1		0.0083
+1938		dissatisfy		1		0.0083
+1939		distances		1		0.0083
+1940		distressed		1		0.0083
+1941		district		1		0.0083
+1942		doctor		1		0.0083
+1943		dollars		1		0.0083
+1944		domestic		1		0.0083
+1945		donations		1		0.0083
+1946		drag		1		0.0083
+1947		dramatically		1		0.0083
+1948		drive		1		0.0083
+1949		drop		1		0.0083
+1950		dropping		1		0.0083
+1951		ducks		1		0.0083
+1952		duction		1		0.0083
+1953		dunce		1		0.0083
+1954		dust		1		0.0083
+1955		eager		1		0.0083
+1956		eagerly		1		0.0083
+1957		earlier		1		0.0083
+1958		earliest		1		0.0083
+1959		ears		1		0.0083
+1960		earths		1		0.0083
+1961		easily		1		0.0083
+1962		East		1		0.0083
+1963		Eastern		1		0.0083
+1964		economics		1		0.0083
+1965		edible		1		0.0083
+1966		educational		1		0.0083
+1967		Edward		1		0.0083
+1968		effective		1		0.0083
+1969		effects		1		0.0083
+1970		effort		1		0.0083
+1971		efforts		1		0.0083
+1972		eight		1		0.0083
+1973		electronics		1		0.0083
+1974		elevator		1		0.0083
+1975		eliminating		1		0.0083
+1976		embedded		1		0.0083
+1977		Embrace		1		0.0083
+1978		emerging		1		0.0083
+1979		emits		1		0.0083
+1980		emotion		1		0.0083
+1981		emotional		1		0.0083
+1982		employed		1		0.0083
+1983		employees		1		0.0083
+1984		employer		1		0.0083
+1985		employers		1		0.0083
+1986		employment		1		0.0083
+1987		encouraging		1		0.0083
+1988		engaged		1		0.0083
+1989		engagement		1		0.0083
+1990		engaging		1		0.0083
+1991		England		1		0.0083
+1992		enjoyed		1		0.0083
+1993		enormously		1		0.0083
+1994		entering		1		0.0083
+1995		enters		1		0.0083
+1996		enthusiastic		1		0.0083
+1997		Entitled		1		0.0083
+1998		entrepreneurs		1		0.0083
+1999		Er		1		0.0083
+2000		essays		1		0.0083
+2001		essential		1		0.0083
+2002		essentially		1		0.0083
+2003		estimated		1		0.0083
+2004		European		1		0.0083
+2005		evaluation		1		0.0083
+2006		Even		1		0.0083
+2007		Eventually		1		0.0083
+2008		eventually		1		0.0083
+2009		everyday		1		0.0083
+2010		everything		1		0.0083
+2011		examination		1		0.0083
+2012		executives		1		0.0083
+2013		exemplifies		1		0.0083
+2014		exhibit		1		0.0083
+2015		existence		1		0.0083
+2016		expectancy		1		0.0083
+2017		expectations		1		0.0083
+2018		expected		1		0.0083
+2019		expecting		1		0.0083
+2020		expenses		1		0.0083
+2021		experienced		1		0.0083
+2022		expert		1		0.0083
+2023		experts		1		0.0083
+2024		expiration		1		0.0083
+2025		Explain		1		0.0083
+2026		explain		1		0.0083
+2027		express		1		0.0083
+2028		expression		1		0.0083
+2029		extended		1		0.0083
+2030		extensive		1		0.0083
+2031		extensively		1		0.0083
+2032		extremely		1		0.0083
+2033		facili		1		0.0083
+2034		facing		1		0.0083
+2035		fail		1		0.0083
+2036		faith		1		0.0083
+2037		falling		1		0.0083
+2038		falls		1		0.0083
+2039		familiarize		1		0.0083
+2040		families		1		0.0083
+2041		farm		1		0.0083
+2042		farms		1		0.0083
+2043		fascinating		1		0.0083
+2044		fast		1		0.0083
+2045		favor		1		0.0083
+2046		favorites		1		0.0083
+2047		fearful		1		0.0083
+2048		feeds		1		0.0083
+2049		feels		1		0.0083
+2050		festival		1		0.0083
+2051		festivals		1		0.0083
+2052		festive		1		0.0083
+2053		fi		1		0.0083
+2054		fiction		1		0.0083
+2055		fifteen		1		0.0083
+2056		fifteenth		1		0.0083
+2057		Fifth		1		0.0083
+2058		figure		1		0.0083
+2059		filling		1		0.0083
+2060		films		1		0.0083
+2061		final		1		0.0083
+2062		finalizing		1		0.0083
+2063		Finally		1		0.0083
+2064		finished		1		0.0083
+2065		Finland		1		0.0083
+2066		fire		1		0.0083
+2067		firefighters		1		0.0083
+2068		firm		1		0.0083
+2069		fixing		1		0.0083
+2070		Flight		1		0.0083
+2071		fly		1		0.0083
+2072		focuses		1		0.0083
+2073		Food		1		0.0083
+2074		foot		1		0.0083
+2075		football		1		0.0083
+2076		forced		1		0.0083
+2077		forcing		1		0.0083
+2078		foreign		1		0.0083
+2079		forgotten		1		0.0083
+2080		format		1		0.0083
+2081		foundation		1		0.0083
+2082		founder		1		0.0083
+2083		fraction		1		0.0083
+2084		freedom		1		0.0083
+2085		frequency		1		0.0083
+2086		frequent		1		0.0083
+2087		frightening		1		0.0083
+2088		fringe		1		0.0083
+2089		fruit		1		0.0083
+2090		fully		1		0.0083
+2091		fun		1		0.0083
+2092		function		1		0.0083
+2093		functional		1		0.0083
+2094		Further		1		0.0083
+2095		further		1		0.0083
+2096		future		1		0.0083
+2097		gain		1		0.0083
+2098		games		1		0.0083
+2099		garages		1		0.0083
+2100		gates		1		0.0083
+2101		gathered		1		0.0083
+2102		gazing		1		0.0083
+2103		geographic		1		0.0083
+2104		german		1		0.0083
+2105		Germany		1		0.0083
+2106		getting		1		0.0083
+2107		giants		1		0.0083
+2108		girlfriend		1		0.0083
+2109		given		1		0.0083
+2110		glad		1		0.0083
+2111		glamour		1		0.0083
+2112		global		1		0.0083
+2113		gloomy		1		0.0083
+2114		golden		1		0.0083
+2115		golf		1		0.0083
+2116		Goodness		1		0.0083
+2117		governor		1		0.0083
+2118		graduating		1		0.0083
+2119		graduation		1		0.0083
+2120		grammar		1		0.0083
+2121		grants		1		0.0083
+2122		grass		1		0.0083
+2123		grasses		1		0.0083
+2124		greater		1		0.0083
+2125		greatly		1		0.0083
+2126		greenhouse		1		0.0083
+2127		grew		1		0.0083
+2128		grocery		1		0.0083
+2129		grown		1		0.0083
+2130		guages		1		0.0083
+2131		guarantees		1		0.0083
+2132		guarded		1		0.0083
+2133		guest		1		0.0083
+2134		gymnastics		1		0.0083
+2135		half		1		0.0083
+2136		hall		1		0.0083
+2137		hand		1		0.0083
+2138		handwritten		1		0.0083
+2139		happened		1		0.0083
+2140		happening		1		0.0083
+2141		harder		1		0.0083
+2142		harmed		1		0.0083
+2143		harsh		1		0.0083
+2144		Harvard		1		0.0083
+2145		hasn		1		0.0083
+2146		hawk		1		0.0083
+2147		healthful		1		0.0083
+2148		heels		1		0.0083
+2149		held		1		0.0083
+2150		Help		1		0.0083
+2151		helpful		1		0.0083
+2152		helpless		1		0.0083
+2153		helplessness		1		0.0083
+2154		helps		1		0.0083
+2155		Henry		1		0.0083
+2156		heritage		1		0.0083
+2157		heroes		1		0.0083
+2158		hers		1		0.0083
+2159		herself		1		0.0083
+2160		hey		1		0.0083
+2161		Hi		1		0.0083
+2162		hierarchical		1		0.0083
+2163		High		1		0.0083
+2164		highlighted		1		0.0083
+2165		highly		1		0.0083
+2166		hilly		1		0.0083
+2167		himself		1		0.0083
+2168		historically		1		0.0083
+2169		history		1		0.0083
+2170		holder		1		0.0083
+2171		hole		1		0.0083
+2172		Hollywood		1		0.0083
+2173		homeless		1		0.0083
+2174		honest		1		0.0083
+2175		honor		1		0.0083
+2176		honored		1		0.0083
+2177		hoped		1		0.0083
+2178		horns		1		0.0083
+2179		hospital		1		0.0083
+2180		host		1		0.0083
+2181		hot		1		0.0083
+2182		house		1		0.0083
+2183		households		1		0.0083
+2184		hundred		1		0.0083
+2185		ice		1		0.0083
+2186		Id		1		0.0083
+2187		Ideally		1		0.0083
+2188		idiom		1		0.0083
+2189		Ill		1		0.0083
+2190		Illinois		1		0.0083
+2191		illnesses		1		0.0083
+2192		Im		1		0.0083
+2193		image		1		0.0083
+2194		images		1		0.0083
+2195		Imagine		1		0.0083
+2196		impact		1		0.0083
+2197		implementing		1		0.0083
+2198		imposed		1		0.0083
+2199		impressed		1		0.0083
+2200		improved		1		0.0083
+2201		improvements		1		0.0083
+2202		include		1		0.0083
+2203		includes		1		0.0083
+2204		incorporating		1		0.0083
+2205		increased		1		0.0083
+2206		increasing		1		0.0083
+2207		indeed		1		0.0083
+2208		Indeed		1		0.0083
+2209		Independence		1		0.0083
+2210		India		1		0.0083
+2211		individual		1		0.0083
+2212		infinitely		1		0.0083
+2213		influence		1		0.0083
+2214		influences		1		0.0083
+2215		Information		1		0.0083
+2216		informs		1		0.0083
+2217		ing		1		0.0083
+2218		innovative		1		0.0083
+2219		insects		1		0.0083
+2220		inspire		1		0.0083
+2221		inspired		1		0.0083
+2222		installed		1		0.0083
+2223		instant		1		0.0083
+2224		instantly		1		0.0083
+2225		instinctively		1		0.0083
+2226		instructions		1		0.0083
+2227		instructors		1		0.0083
+2228		intake		1		0.0083
+2229		integrate		1		0.0083
+2230		interests		1		0.0083
+2231		Internet		1		0.0083
+2232		introduction		1		0.0083
+2233		invade		1		0.0083
+2234		invented		1		0.0083
+2235		invention		1		0.0083
+2236		invents		1		0.0083
+2237		invest		1		0.0083
+2238		invites		1		0.0083
+2239		involved		1		0.0083
+2240		irresistible		1		0.0083
+2241		Is		1		0.0083
+2242		issues		1		0.0083
+2243		Italian		1		0.0083
+2244		itself		1		0.0083
+2245		jail		1		0.0083
+2246		Japan		1		0.0083
+2247		jealousy		1		0.0083
+2248		Jin		1		0.0083
+2249		Jo		1		0.0083
+2250		JO		1		0.0083
+2251		joyful		1		0.0083
+2252		judge		1		0.0083
+2253		judges		1		0.0083
+2254		juice		1		0.0083
+2255		junk		1		0.0083
+2256		Karenga		1		0.0083
+2257		Kate		1		0.0083
+2258		keen		1		0.0083
+2259		keeps		1		0.0083
+2260		Keith		1		0.0083
+2261		kept		1		0.0083
+2262		key		1		0.0083
+2263		keynote		1		0.0083
+2264		Kill		1		0.0083
+2265		Kindergarten		1		0.0083
+2266		kingdom		1		0.0083
+2267		km		1		0.0083
+2268		knew		1		0.0083
+2269		knowing		1		0.0083
+2270		knowledgeable		1		0.0083
+2271		Korea		1		0.0083
+2272		l		1		0.0083
+2273		labels		1		0.0083
+2274		lacks		1		0.0083
+2275		ladies		1		0.0083
+2276		lan		1		0.0083
+2277		larger		1		0.0083
+2278		Last		1		0.0083
+2279		lately		1		0.0083
+2280		Law		1		0.0083
+2281		law		1		0.0083
+2282		least		1		0.0083
+2283		Lebanon		1		0.0083
+2284		left		1		0.0083
+2285		legged		1		0.0083
+2286		length		1		0.0083
+2287		less		1		0.0083
+2288		Let		1		0.0083
+2289		leverage		1		0.0083
+2290		license		1		0.0083
+2291		lies		1		0.0083
+2292		lighter		1		0.0083
+2293		lighting		1		0.0083
+2294		likely		1		0.0083
+2295		limitations		1		0.0083
+2296		limited		1		0.0083
+2297		line		1		0.0083
+2298		lines		1		0.0083
+2299		list		1		0.0083
+2300		listen		1		0.0083
+2301		listened		1		0.0083
+2302		listening		1		0.0083
+2303		literary		1		0.0083
+2304		literate		1		0.0083
+2305		lives		1		0.0083
+2306		living		1		0.0083
+2307		located		1		0.0083
+2308		locating		1		0.0083
+2309		location		1		0.0083
+2310		locations		1		0.0083
+2311		Lock		1		0.0083
+2312		London		1		0.0083
+2313		Long		1		0.0083
+2314		looked		1		0.0083
+2315		lookout		1		0.0083
+2316		looks		1		0.0083
+2317		losing		1		0.0083
+2318		lots		1		0.0083
+2319		lowering		1		0.0083
+2320		Luckily		1		0.0083
+2321		lucky		1		0.0083
+2322		ma		1		0.0083
+2323		magazines		1		0.0083
+2324		mail		1		0.0083
+2325		major		1		0.0083
+2326		majors		1		0.0083
+2327		maker		1		0.0083
+2328		makers		1		0.0083
+2329		makes		1		0.0083
+2330		mall		1		0.0083
+2331		managed		1		0.0083
+2332		managers		1		0.0083
+2333		managing		1		0.0083
+2334		maneuver		1		0.0083
+2335		manufactured		1		0.0083
+2336		Mark		1		0.0083
+2337		markers		1		0.0083
+2338		marketplace		1		0.0083
+2339		married		1		0.0083
+2340		Mary		1		0.0083
+2341		Marys		1		0.0083
+2342		masters		1		0.0083
+2343		mat		1		0.0083
+2344		material		1		0.0083
+2345		Maybe		1		0.0083
+2346		maybe		1		0.0083
+2347		meaningless		1		0.0083
+2348		measure		1		0.0083
+2349		measuring		1		0.0083
+2350		mechanic		1		0.0083
+2351		mechanisms		1		0.0083
+2352		medical		1		0.0083
+2353		meditation		1		0.0083
+2354		member		1		0.0083
+2355		mention		1		0.0083
+2356		mentions		1		0.0083
+2357		mentor		1		0.0083
+2358		merely		1		0.0083
+2359		message		1		0.0083
+2360		mice		1		0.0083
+2361		middle		1		0.0083
+2362		Middle		1		0.0083
+2363		mileage		1		0.0083
+2364		minded		1		0.0083
+2365		minerals		1		0.0083
+2366		minutes		1		0.0083
+2367		misconception		1		0.0083
+2368		mistake		1		0.0083
+2369		mixed		1		0.0083
+2370		mixture		1		0.0083
+2371		modem		1		0.0083
+2372		modern		1		0.0083
+2373		modernized		1		0.0083
+2374		Monday		1		0.0083
+2375		month		1		0.0083
+2376		monthly		1		0.0083
+2377		moody		1		0.0083
+2378		Morocco		1		0.0083
+2379		mortality		1		0.0083
+2380		mosaic		1		0.0083
+2381		motivated		1		0.0083
+2382		motor		1		0.0083
+2383		mountainous		1		0.0083
+2384		mouth		1		0.0083
+2385		movable		1		0.0083
+2386		move		1		0.0083
+2387		movies		1		0.0083
+2388		multi		1		0.0083
+2389		musical		1		0.0083
+2390		musician		1		0.0083
+2391		My		1		0.0083
+2392		myself		1		0.0083
+2393		n		1		0.0083
+2394		name		1		0.0083
+2395		named		1		0.0083
+2396		names		1		0.0083
+2397		nap		1		0.0083
+2398		nature		1		0.0083
+2399		navy		1		0.0083
+2400		neck		1		0.0083
+2401		needs		1		0.0083
+2402		Netherlands		1		0.0083
+2403		network		1		0.0083
+2404		News		1		0.0083
+2405		Newspapers		1		0.0083
+2406		Next		1		0.0083
+2407		nice		1		0.0083
+2408		nineteen		1		0.0083
+2409		noises		1		0.0083
+2410		normal		1		0.0083
+2411		normally		1		0.0083
+2412		North		1		0.0083
+2413		Not		1		0.0083
+2414		noted		1		0.0083
+2415		notes		1		0.0083
+2416		noticed		1		0.0083
+2417		o		1		0.0083
+2418		objective		1		0.0083
+2419		objects		1		0.0083
+2420		obligations		1		0.0083
+2421		obtaining		1		0.0083
+2422		occupational		1		0.0083
+2423		occur		1		0.0083
+2424		occurrence		1		0.0083
+2425		occurs		1		0.0083
+2426		Ocean		1		0.0083
+2427		office		1		0.0083
+2428		officers		1		0.0083
+2429		official		1		0.0083
+2430		Oh		1		0.0083
+2431		oh		1		0.0083
+2432		oils		1		0.0083
+2433		OK		1		0.0083
+2434		Old		1		0.0083
+2435		ones		1		0.0083
+2436		online		1		0.0083
+2437		opened		1		0.0083
+2438		opens		1		0.0083
+2439		operates		1		0.0083
+2440		options		1		0.0083
+2441		order		1		0.0083
+2442		Oscars		1		0.0083
+2443		Other		1		0.0083
+2444		otherwise		1		0.0083
+2445		Otherwise		1		0.0083
+2446		outer		1		0.0083
+2447		outgoing		1		0.0083
+2448		outside		1		0.0083
+2449		outspoken		1		0.0083
+2450		outstanding		1		0.0083
+2451		Overall		1		0.0083
+2452		overnight		1		0.0083
+2453		overproduction		1		0.0083
+2454		owe		1		0.0083
+2455		owners		1		0.0083
+2456		ox		1		0.0083
+2457		pacific		1		0.0083
+2458		painful		1		0.0083
+2459		paints		1		0.0083
+2460		parables		1		0.0083
+2461		park		1		0.0083
+2462		Parking		1		0.0083
+2463		Parliament		1		0.0083
+2464		part		1		0.0083
+2465		partake		1		0.0083
+2466		parties		1		0.0083
+2467		Parts		1		0.0083
+2468		patience		1		0.0083
+2469		paul		1		0.0083
+2470		Paulo		1		0.0083
+2471		payment		1		0.0083
+2472		penalties		1		0.0083
+2473		Pennsylvania		1		0.0083
+2474		People		1		0.0083
+2475		pep		1		0.0083
+2476		perceive		1		0.0083
+2477		percent		1		0.0083
+2478		perfect		1		0.0083
+2479		perfectly		1		0.0083
+2480		performance		1		0.0083
+2481		performing		1		0.0083
+2482		period		1		0.0083
+2483		periodical		1		0.0083
+2484		permitted		1		0.0083
+2485		permitting		1		0.0083
+2486		persistence		1		0.0083
+2487		persuade		1		0.0083
+2488		persuasive		1		0.0083
+2489		pet		1		0.0083
+2490		Peter		1		0.0083
+2491		phone		1		0.0083
+2492		physical		1		0.0083
+2493		physically		1		0.0083
+2494		pick		1		0.0083
+2495		picnics		1		0.0083
+2496		picture		1		0.0083
+2497		pigs		1		0.0083
+2498		plant		1		0.0083
+2499		Plantin		1		0.0083
+2500		plants		1		0.0083
+2501		plastics		1		0.0083
+2502		platitudes		1		0.0083
+2503		played		1		0.0083
+2504		players		1		0.0083
+2505		playground		1		0.0083
+2506		Playing		1		0.0083
+2507		please		1		0.0083
+2508		pleasure		1		0.0083
+2509		plenty		1		0.0083
+2510		poems		1		0.0083
+2511		poet		1		0.0083
+2512		points		1		0.0083
+2513		poise		1		0.0083
+2514		police		1		0.0083
+2515		policy		1		0.0083
+2516		Policy		1		0.0083
+2517		political		1		0.0083
+2518		poor		1		0.0083
+2519		popping		1		0.0083
+2520		portion		1		0.0083
+2521		positioning		1		0.0083
+2522		positive		1		0.0083
+2523		possibility		1		0.0083
+2524		potluck		1		0.0083
+2525		pounds		1		0.0083
+2526		pouring		1		0.0083
+2527		pours		1		0.0083
+2528		practical		1		0.0083
+2529		practices		1		0.0083
+2530		predator		1		0.0083
+2531		prefer		1		0.0083
+2532		preparation		1		0.0083
+2533		prepared		1		0.0083
+2534		president		1		0.0083
+2535		press		1		0.0083
+2536		presses		1		0.0083
+2537		pressure		1		0.0083
+2538		prestige		1		0.0083
+2539		presumably		1		0.0083
+2540		pretending		1		0.0083
+2541		prevent		1		0.0083
+2542		preventing		1		0.0083
+2543		previous		1		0.0083
+2544		priced		1		0.0083
+2545		prices		1		0.0083
+2546		prime		1		0.0083
+2547		print		1		0.0083
+2548		printer		1		0.0083
+2549		printers		1		0.0083
+2550		Printing		1		0.0083
+2551		prior		1		0.0083
+2552		priorities		1		0.0083
+2553		prison		1		0.0083
+2554		pro		1		0.0083
+2555		process		1		0.0083
+2556		produced		1		0.0083
+2557		produces		1		0.0083
+2558		producing		1		0.0083
+2559		Products		1		0.0083
+2560		Prof		1		0.0083
+2561		profession		1		0.0083
+2562		professional		1		0.0083
+2563		profit		1		0.0083
+2564		progress		1		0.0083
+2565		promoted		1		0.0083
+2566		pronunciation		1		0.0083
+2567		proportions		1		0.0083
+2568		pros		1		0.0083
+2569		prospects		1		0.0083
+2570		provide		1		0.0083
+2571		providers		1		0.0083
+2572		psychological		1		0.0083
+2573		psychologically		1		0.0083
+2574		public		1		0.0083
+2575		publish		1		0.0083
+2576		publisher		1		0.0083
+2577		Publishers		1		0.0083
+2578		publishing		1		0.0083
+2579		pull		1		0.0083
+2580		pulled		1		0.0083
+2581		pupils		1		0.0083
+2582		purchases		1		0.0083
+2583		pursuit		1		0.0083
+2584		quantities		1		0.0083
+2585		question		1		0.0083
+2586		questioned		1		0.0083
+2587		questions		1		0.0083
+2588		quietly		1		0.0083
+2589		race		1		0.0083
+2590		Radio		1		0.0083
+2591		rail		1		0.0083
+2592		rainmaker		1		0.0083
+2593		raised		1		0.0083
+2594		raises		1		0.0083
+2595		raising		1		0.0083
+2596		rampant		1		0.0083
+2597		range		1		0.0083
+2598		rare		1		0.0083
+2599		rate		1		0.0083
+2600		reaching		1		0.0083
+2601		ready		1		0.0083
+2602		realizing		1		0.0083
+2603		recipients		1		0.0083
+2604		recited		1		0.0083
+2605		recognized		1		0.0083
+2606		recorders		1		0.0083
+2607		records		1		0.0083
+2608		recreating		1		0.0083
+2609		redirects		1		0.0083
+2610		reducing		1		0.0083
+2611		Reexamine		1		0.0083
+2612		refining		1		0.0083
+2613		reflect		1		0.0083
+2614		reflects		1		0.0083
+2615		refraining		1		0.0083
+2616		refuse		1		0.0083
+2617		regarded		1		0.0083
+2618		regarding		1		0.0083
+2619		regional		1		0.0083
+2620		regular		1		0.0083
+2621		regulated		1		0.0083
+2622		regulations		1		0.0083
+2623		related		1		0.0083
+2624		relay		1		0.0083
+2625		released		1		0.0083
+2626		religion		1		0.0083
+2627		relocated		1		0.0083
+2628		remains		1		0.0083
+2629		remembering		1		0.0083
+2630		remind		1		0.0083
+2631		removing		1		0.0083
+2632		reports		1		0.0083
+2633		republic		1		0.0083
+2634		reputation		1		0.0083
+2635		required		1		0.0083
+2636		requires		1		0.0083
+2637		Researchers		1		0.0083
+2638		residents		1		0.0083
+2639		resource		1		0.0083
+2640		resources		1		0.0083
+2641		responsibility		1		0.0083
+2642		responsible		1		0.0083
+2643		result		1		0.0083
+2644		results		1		0.0083
+2645		resurfaced		1		0.0083
+2646		retain		1		0.0083
+2647		rethink		1		0.0083
+2648		reunions		1		0.0083
+2649		rewarded		1		0.0083
+2650		rink		1		0.0083
+2651		ripe		1		0.0083
+2652		Road		1		0.0083
+2653		room		1		0.0083
+2654		round		1		0.0083
+2655		ruled		1		0.0083
+2656		rupees		1		0.0083
+2657		rush		1		0.0083
+2658		rushing		1		0.0083
+2659		S		1		0.0083
+2660		safety		1		0.0083
+2661		saint		1		0.0083
+2662		Saks		1		0.0083
+2663		salaries		1		0.0083
+2664		sales		1		0.0083
+2665		salves		1		0.0083
+2666		san		1		0.0083
+2667		Sao		1		0.0083
+2668		satisfaction		1		0.0083
+2669		saturated		1		0.0083
+2670		saturates		1		0.0083
+2671		scarcity		1		0.0083
+2672		scarf		1		0.0083
+2673		scariest		1		0.0083
+2674		scholarly		1		0.0083
+2675		Scientists		1		0.0083
+2676		search		1		0.0083
+2677		seatbelt		1		0.0083
+2678		Second		1		0.0083
+2679		security		1		0.0083
+2680		seeing		1		0.0083
+2681		seeking		1		0.0083
+2682		seemed		1		0.0083
+2683		seize		1		0.0083
+2684		seldom		1		0.0083
+2685		selected		1		0.0083
+2686		selection		1		0.0083
+2687		self		1		0.0083
+2688		semesters		1		0.0083
+2689		senses		1		0.0083
+2690		September		1		0.0083
+2691		Serbia		1		0.0083
+2692		series		1		0.0083
+2693		serve		1		0.0083
+2694		serves		1		0.0083
+2695		session		1		0.0083
+2696		settle		1		0.0083
+2697		settles		1		0.0083
+2698		Seven		1		0.0083
+2699		several		1		0.0083
+2700		Shakespeare		1		0.0083
+2701		shape		1		0.0083
+2702		shaped		1		0.0083
+2703		shared		1		0.0083
+2704		sharing		1		0.0083
+2705		Sharing		1		0.0083
+2706		sheep		1		0.0083
+2707		shelter		1		0.0083
+2708		shop		1		0.0083
+2709		shopping		1		0.0083
+2710		shout		1		0.0083
+2711		show		1		0.0083
+2712		showing		1		0.0083
+2713		shows		1		0.0083
+2714		sideways		1		0.0083
+2715		siesta		1		0.0083
+2716		significant		1		0.0083
+2717		signing		1		0.0083
+2718		signs		1		0.0083
+2719		silent		1		0.0083
+2720		simple		1		0.0083
+2721		simply		1		0.0083
+2722		single		1		0.0083
+2723		situations		1		0.0083
+2724		Six		1		0.0083
+2725		sixteenth		1		0.0083
+2726		skates		1		0.0083
+2727		sketch		1		0.0083
+2728		slavery		1		0.0083
+2729		slaves		1		0.0083
+2730		slender		1		0.0083
+2731		slides		1		0.0083
+2732		slow		1		0.0083
+2733		smart		1		0.0083
+2734		smile		1		0.0083
+2735		smiled		1		0.0083
+2736		socialize		1		0.0083
+2737		socializers		1		0.0083
+2738		socializing		1		0.0083
+2739		society		1		0.0083
+2740		sociology		1		0.0083
+2741		software		1		0.0083
+2742		soldier		1		0.0083
+2743		solitary		1		0.0083
+2744		solve		1		0.0083
+2745		Something		1		0.0083
+2746		somewhere		1		0.0083
+2747		songs		1		0.0083
+2748		Soon		1		0.0083
+2749		sooner		1		0.0083
+2750		sort		1		0.0083
+2751		Sound		1		0.0083
+2752		sounded		1		0.0083
+2753		southern		1		0.0083
+2754		spark		1		0.0083
+2755		speakers		1		0.0083
+2756		speaking		1		0.0083
+2757		speaks		1		0.0083
+2758		species		1		0.0083
+2759		specifically		1		0.0083
+2760		specifying		1		0.0083
+2761		speeches		1		0.0083
+2762		spewing		1		0.0083
+2763		spoken		1		0.0083
+2764		spokesperson		1		0.0083
+2765		spots		1		0.0083
+2766		spread		1		0.0083
+2767		spreading		1		0.0083
+2768		squeeze		1		0.0083
+2769		stabilizing		1		0.0083
+2770		staff		1		0.0083
+2771		stage		1		0.0083
+2772		stages		1		0.0083
+2773		stand		1		0.0083
+2774		standardizing		1		0.0083
+2775		staples		1		0.0083
+2776		stars		1		0.0083
+2777		stations		1		0.0083
+2778		statistics		1		0.0083
+2779		stepping		1		0.0083
+2780		stifle		1		0.0083
+2781		stimulated		1		0.0083
+2782		stimulating		1		0.0083
+2783		stock		1		0.0083
+2784		stops		1		0.0083
+2785		storytelling		1		0.0083
+2786		strategic		1		0.0083
+2787		strategies		1		0.0083
+2788		straw		1		0.0083
+2789		streaming		1		0.0083
+2790		strengths		1		0.0083
+2791		strict		1		0.0083
+2792		strong		1		0.0083
+2793		strongly		1		0.0083
+2794		structured		1		0.0083
+2795		struggles		1		0.0083
+2796		stuck		1		0.0083
+2797		studied		1		0.0083
+2798		studies		1		0.0083
+2799		Study		1		0.0083
+2800		subject		1		0.0083
+2801		subjects		1		0.0083
+2802		Sublimation		1		0.0083
+2803		submit		1		0.0083
+2804		suddenly		1		0.0083
+2805		suffer		1		0.0083
+2806		sufficient		1		0.0083
+2807		sunny		1		0.0083
+2808		supervision		1		0.0083
+2809		supplies		1		0.0083
+2810		supporting		1		0.0083
+2811		supposes		1		0.0083
+2812		Sure		1		0.0083
+2813		surprise		1		0.0083
+2814		surround		1		0.0083
+2815		Susan		1		0.0083
+2816		sweater		1		0.0083
+2817		swoop		1		0.0083
+2818		Syria		1		0.0083
+2819		Systems		1		0.0083
+2820		takes		1		0.0083
+2821		talked		1		0.0083
+2822		tap		1		0.0083
+2823		target		1		0.0083
+2824		tated		1		0.0083
+2825		teach		1		0.0083
+2826		teacher		1		0.0083
+2827		Team		1		0.0083
+2828		teamwork		1		0.0083
+2829		tech		1		0.0083
+2830		technical		1		0.0083
+2831		teens		1		0.0083
+2832		temporary		1		0.0083
+2833		tempted		1		0.0083
+2834		tend		1		0.0083
+2835		tendency		1		0.0083
+2836		terribly		1		0.0083
+2837		test		1		0.0083
+2838		text		1		0.0083
+2839		textures		1		0.0083
+2840		thanks		1		0.0083
+2841		Thats		1		0.0083
+2842		theirs		1		0.0083
+2843		therapeutic		1		0.0083
+2844		Therefore		1		0.0083
+2845		theres		1		0.0083
+2846		Theres		1		0.0083
+2847		thousands		1		0.0083
+2848		thread		1		0.0083
+2849		throughout		1		0.0083
+2850		throw		1		0.0083
+2851		throwing		1		0.0083
+2852		thrown		1		0.0083
+2853		thus		1		0.0083
+2854		Thus		1		0.0083
+2855		tickets		1		0.0083
+2856		tie		1		0.0083
+2857		till		1		0.0083
+2858		tiny		1		0.0083
+2859		todays		1		0.0083
+2860		Together		1		0.0083
+2861		toleration		1		0.0083
+2862		tomatoes		1		0.0083
+2863		tomorrow		1		0.0083
+2864		torn		1		0.0083
+2865		touring		1		0.0083
+2866		toward		1		0.0083
+2867		town		1		0.0083
+2868		track		1		0.0083
+2869		trade		1		0.0083
+2870		trading		1		0.0083
+2871		tradition		1		0.0083
+2872		traditions		1		0.0083
+2873		traffic		1		0.0083
+2874		transform		1		0.0083
+2875		translations		1		0.0083
+2876		transmit		1		0.0083
+2877		transport		1		0.0083
+2878		transported		1		0.0083
+2879		trapping		1		0.0083
+2880		traveled		1		0.0083
+2881		travels		1		0.0083
+2882		treats		1		0.0083
+2883		trees		1		0.0083
+2884		trenches		1		0.0083
+2885		tribal		1		0.0083
+2886		trip		1		0.0083
+2887		troubles		1		0.0083
+2888		troublesome		1		0.0083
+2889		truck		1		0.0083
+2890		true		1		0.0083
+2891		truly		1		0.0083
+2892		trust		1		0.0083
+2893		trying		1		0.0083
+2894		Tunisia		1		0.0083
+2895		Turkey		1		0.0083
+2896		typing		1		0.0083
+2897		U		1		0.0083
+2898		ultimate		1		0.0083
+2899		Um		1		0.0083
+2900		unattractive		1		0.0083
+2901		uncomfortable		1		0.0083
+2902		uncovered		1		0.0083
+2903		undercut		1		0.0083
+2904		underscore		1		0.0083
+2905		understand		1		0.0083
+2906		understood		1		0.0083
+2907		uneaten		1		0.0083
+2908		unfair		1		0.0083
+2909		unfasten		1		0.0083
+2910		Unfortunately		1		0.0083
+2911		unique		1		0.0083
+2912		unlike		1		0.0083
+2913		unnatural		1		0.0083
+2914		unpleasant		1		0.0083
+2915		unrealistic		1		0.0083
+2916		unrest		1		0.0083
+2917		unsaturated		1		0.0083
+2918		unsold		1		0.0083
+2919		ups		1		0.0083
+2920		useful		1		0.0083
+2921		usually		1		0.0083
+2922		vacant		1		0.0083
+2923		valid		1		0.0083
+2924		Valley		1		0.0083
+2925		values		1		0.0083
+2926		varied		1		0.0083
+2927		variety		1		0.0083
+2928		various		1		0.0083
+2929		vegetable		1		0.0083
+2930		vegetables		1		0.0083
+2931		venture		1		0.0083
+2932		verse		1		0.0083
+2933		Victoria		1		0.0083
+2934		viral		1		0.0083
+2935		vital		1		0.0083
+2936		vitamins		1		0.0083
+2937		volume		1		0.0083
+2938		volumes		1		0.0083
+2939		voted		1		0.0083
+2940		wading		1		0.0083
+2941		Wait		1		0.0083
+2942		walking		1		0.0083
+2943		wanting		1		0.0083
+2944		ward		1		0.0083
+2945		wasted		1		0.0083
+2946		watch		1		0.0083
+2947		wave		1		0.0083
+2948		Weed		1		0.0083
+2949		weeks		1		0.0083
+2950		weight		1		0.0083
+2951		welcome		1		0.0083
+2952		weren		1		0.0083
+2953		wheat		1		0.0083
+2954		whenever		1		0.0083
+2955		whereas		1		0.0083
+2956		Whether		1		0.0083
+2957		whether		1		0.0083
+2958		whole		1		0.0083
+2959		Why		1		0.0083
+2960		wide		1		0.0083
+2961		widely		1		0.0083
+2962		William		1		0.0083
+2963		window		1		0.0083
+2964		Wine		1		0.0083
+2965		wisdom		1		0.0083
+2966		wise		1		0.0083
+2967		wish		1		0.0083
+2968		women		1		0.0083
+2969		wonderful		1		0.0083
+2970		woods		1		0.0083
+2971		workers		1		0.0083
+2972		worlds		1		0.0083
+2973		worldwide		1		0.0083
+2974		worried		1		0.0083
+2975		wrap		1		0.0083
+2976		writer		1		0.0083
+2977		writings		1		0.0083
+2978		wrong		1		0.0083
+2979		wrote		1		0.0083
+2980		www		1		0.0083
+2981		Years		1		0.0083
+2982		yesterday		1		0.0083
+2983		Yesterday		1		0.0083
+2984		Yet		1		0.0083
+2985		yielded		1		0.0083
+2986		yoga		1		0.0083
+2987		Yorkers		1		0.0083
+2988		zone		1		0.0083
