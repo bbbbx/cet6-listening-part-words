@@ -19,6 +19,6 @@
 
 详细词频请看 [word_frequency.txt](word_frequency.txt)。
 
-## 赞助？
+## 支持？
 
 `star ⭐` 一下就好。
